@@ -1,0 +1,20 @@
+{
+  "name": "kinyarwandasmt",
+  "version": "1.0.0",
+  "description": "# Abstract: Statistical Machine Translation (SMT) is a statistical machine learning (SML) technique that uses statistical models to generate translations from one language to another. In this paper, I describe the statistical machine translation (SMT) approach that I am using to make an English to Kinyarwanda translator, and explain the phrase-based model used in some of the most prominent SMT systems such as Cdec, Joshua, and Moses. The latter SMT system being the one I am using to develop my English to Kinyarwanda translation model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pniyongabo/kinyarwandaSMT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pniyongabo/kinyarwandaSMT/issues"
+  },
+  "homepage": "https://github.com/pniyongabo/kinyarwandaSMT#readme"
+}

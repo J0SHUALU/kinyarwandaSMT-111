@@ -1,0 +1,1334 @@
+id,nat,kin,prefix,root,modifier,en,context,pronunciation,voiceLink,closeSuggestions,verified,author
+1,not set,kwaguka,kw,aguka,#NAME?,"to be widened, made wider",not set,not set,not set,NULL,0,1
+2,not set,kwagura,kw,agura,#NAME?,"to widen, make wider",not set,not set,not set,NULL,0,1
+3,not set,kwahuka,kw,ahuka,#NAME?,to go to pasture,not set,not set,not set,NULL,0,1
+4,not set,kwahukana,kw,ahukana,#NAME?,"to be separated, divorced",not set,not set,not set,NULL,0,1
+5,not set,kwahura,kw,ahura,#NAME?,to herd to pasture (cattle),not set,not set,not set,NULL,0,1
+6,not set,kwaka,kw,aka,#NAME?,"to be burning, be started",not set,not set,not set,NULL,0,1
+7,not set,kwakira,kw,akira,#NAME?,"to receive, welcome, accept, take in hands",not set,not set,not set,NULL,0,1
+8,not set,kwamamara,kw,amamara,#NAME?,"to spread everywhere, become known",not set,not set,not set,NULL,0,1
+9,not set,kwamamaza,kw,amamaza,#NAME?,"to advertise, publish, make known, declare, campaign",not set,not set,not set,NULL,0,1
+10,not set,kwambara,kw,ambara,#NAME?,to wear,not set,not set,not set,NULL,0,1
+11,not set,kwambarwa,kw,ambarwa,#NAME?,to be worn,not set,not set,not set,NULL,0,1
+12,not set,kwambaza,kw,ambaza,#NAME?,"to pray, petition, call upon, supplicate, implore",not set,not set,not set,NULL,0,1
+13,not set,kwambika,kw,ambika,#NAME?,"to clothe, dress someone else",not set,not set,not set,NULL,0,1
+14,not set,kwambuka,kw,ambuka,#NAME?,to cross body of water or land,not set,not set,not set,NULL,0,1
+15,not set,kwambura,kw,ambura,#NAME?,to refuse to payback what you owe,not set,not set,not set,NULL,0,1
+16,not set,kwandarika,kw,andarika,#NAME?,to leave something in the wrong place,not set,not set,not set,NULL,0,1
+17,not set,kwandika,kw,andika,#NAME?,to write,not set,not set,not set,NULL,0,1
+18,not set,kwandikira,kw,andikira,#NAME?,"to write to, write for, write on",not set,not set,not set,NULL,0,1
+19,not set,kwandikirwa,kw,andikirwa,#NAME?,"to be written to, written for, written on",not set,not set,not set,NULL,0,1
+20,not set,kwandikisha,kw,andikisha,#NAME?,to register,not set,not set,not set,NULL,0,1
+21,not set,kwandikishwa,kw,andikishwa,#NAME?,to be registered,not set,not set,not set,NULL,0,1
+22,not set,kwandikwa,kw,andikwa,#NAME?,to be written,not set,not set,not set,NULL,0,1
+23,not set,kwanga,kw,anga,#NAME?,"to hate, dislike, refuse, reject",not set,not set,not set,NULL,0,1
+24,not set,kwangana,kw,angana,#NAME?,"to hate each other, dislike each other",not set,not set,not set,NULL,0,1
+25,not set,kwangira,kw,angira,#NAME?,"to resist, refuse to",not set,not set,not set,NULL,0,1
+26,not set,kwangirika,kw,angirika,#NAME?,"to be destroyed, damaged",not set,not set,not set,NULL,0,1
+27,not set,kwangirira,kw,angirira,#NAME?,"to resist, refuse to",not set,not set,not set,NULL,0,1
+28,not set,kwangiza,kw,angiza,#NAME?,"to damage, waste, destroy",not set,not set,not set,NULL,0,1
+29,not set,kwangwa,kw,angwa,#NAME?,"to be hated, dislike, refused",not set,not set,not set,NULL,0,1
+30,not set,kwanika,kw,anika,#NAME?,"to put out in the sun, expose",not set,not set,not set,NULL,0,1
+31,not set,kwanura,kw,anura,#NAME?,to bring in from the sun,not set,not set,not set,NULL,0,1
+32,not set,kwanzura,kw,anzura,#NAME?,"to decide, conclude",not set,not set,not set,NULL,0,1
+33,not set,kwarama,kw,arama,#NAME?,to stay in the house after being married (women only),not set,not set,not set,NULL,0,1
+34,not set,kwarika,kw,arika,#NAME?,"to mix water and flour, make posho or ugali",not set,not set,not set,NULL,0,1
+35,not set,kwasa,kw,asa,#NAME?,to cut or chop firewood,not set,not set,not set,NULL,0,1
+36,not set,kwasama,kw,asama,#NAME?,to open one's mouth,not set,not set,not set,NULL,0,1
+37,not set,kwatsa,kw,atsa,#NAME?,"to start (an object), set fire to",not set,not set,not set,NULL,0,1
+38,not set,kwatswa,kw,atswa,#NAME?,"to be started, be burned",not set,not set,not set,NULL,0,1
+39,not set,kwayura,kw,ayura,#NAME?,to yawn,not set,not set,not set,NULL,0,1
+40,not set,kuba,ku,ba,#NAME?,"to be, live, exist",not set,not set,not set,NULL,0,1
+41,not set,kubabara,ku,babara,#NAME?,"to be in pain, suffer, hurt",not set,not set,not set,NULL,0,1
+42,not set,kubabarira,ku,babarira,#NAME?,to forgive,not set,not set,not set,NULL,0,1
+43,not set,kubabarirwa,ku,babarirwa,#NAME?,to be forgiven,not set,not set,not set,NULL,0,1
+44,not set,kubabaza,ku,babaza,#NAME?,"to hurt, offend, cause suffering",not set,not set,not set,NULL,0,1
+45,not set,kubaduka,ku,baduka,#NAME?,to arise quickly,not set,not set,not set,NULL,0,1
+46,not set,kubaga,ku,baga,#NAME?,"to butcher, operate on, remove skin",not set,not set,not set,NULL,0,1
+47,not set,kubagana,ku,bagana,#NAME?,"to fight to the death, inflict serious wounds",not set,not set,not set,NULL,0,1
+48,not set,kubagara,ku,bagara,#NAME?,to weed,not set,not set,not set,NULL,0,1
+49,not set,kubagarwa,ku,bagarwa,#NAME?,to be weeded,not set,not set,not set,NULL,0,1
+50,not set,kubagwa,ku,bagwa,#NAME?,"to be butchered, operated on",not set,not set,not set,NULL,0,1
+51,not set,kubamba,ku,bamba,#NAME?,"to stretch out to dry, crucify",not set,not set,not set,NULL,0,1
+52,not set,kubambura,ku,bambura,#NAME?,to remove a hide from the pegs after drying,not set,not set,not set,NULL,0,1
+53,not set,kubana,ku,bana,#NAME?,to live together,not set,not set,not set,NULL,0,1
+54,not set,kubangikanya,ku,bangikanya,#NAME?,"to be parallel, facing the same direction",not set,not set,not set,NULL,0,1
+55,not set,kubanguka,ku,banguka,#NAME?,"to hurry, go quickly, rush",not set,not set,not set,NULL,0,1
+56,not set,kubanza,ku,banza,#NAME?,to begin by,not set,not set,not set,NULL,0,1
+57,not set,kubanziriza,ku,banziriza,#NAME?,to precede,not set,not set,not set,NULL,0,1
+58,not set,kubanzwa,ku,banzwa,#NAME?,to be begun by,not set,not set,not set,NULL,0,1
+59,not set,kubara,ku,bara,#NAME?,to count,not set,not set,not set,NULL,0,1
+60,not set,kubarura,ku,barura,#NAME?,to make statistics,not set,not set,not set,NULL,0,1
+61,not set,kubarwa,ku,barwa,#NAME?,to be counted,not set,not set,not set,NULL,0,1
+62,not set,kubasha,ku,basha,#NAME?,"to be able, capable, have the power",not set,not set,not set,NULL,0,1
+63,not set,kubatiza,ku,batiza,#NAME?,to baptise,not set,not set,not set,NULL,0,1
+64,not set,kubatizwa,ku,batizwa,#NAME?,to be baptised,not set,not set,not set,NULL,0,1
+65,not set,kubaza,ku,baza,#NAME?,"to ask, enquire, query",not set,not set,not set,NULL,0,1
+66,not set,kubengerana,ku,bengerana,#NAME?,"to shine, gleam",not set,not set,not set,NULL,0,1
+67,not set,kubera,ku,bera,#NAME?,to be unjust,not set,not set,not set,NULL,0,1
+68,not set,kuberama,ku,berama,#NAME?,"to tilt, slope",not set,not set,not set,NULL,0,1
+69,not set,kuberekera,ku,berekera,#NAME?,to pass after others have moved aside,not set,not set,not set,NULL,0,1
+70,not set,kuberereka,ku,berereka,#NAME?,to move aside to allow passage,not set,not set,not set,NULL,0,1
+71,not set,kuberwa,ku,berwa,#NAME?,"to fit, be well fitting, be well dressed, be smart",not set,not set,not set,NULL,0,1
+72,not set,kubeshya,ku,beshya,#NAME?,"to lie, deceive",not set,not set,not set,NULL,0,1
+73,not set,kubeshyabeshya,ku,beshyabeshya,#NAME?,to amuse or fool a child,not set,not set,not set,NULL,0,1
+74,not set,kubeshyera,ku,beshyera,#NAME?,"to falsely accuse, lie about someone",not set,not set,not set,NULL,0,1
+75,not set,kubiba,ku,biba,#NAME?,"to plant, sow",not set,not set,not set,NULL,0,1
+76,not set,kubiha,ku,biha,#NAME?,"to be bad tasting, foul tasting",not set,not set,not set,NULL,0,1
+77,not set,kubika,ku,bika,#NAME?,to crow,not set,not set,not set,NULL,0,1
+78,not set,kubira,ku,bira,#NAME?,to be boiling,not set,not set,not set,NULL,0,1
+79,not set,kubirindura,ku,birindura,#NAME?,to roll along,not set,not set,not set,NULL,0,1
+80,not set,kubisa,ku,bisa,#NAME?,to move aside to allow passage,not set,not set,not set,NULL,0,1
+81,not set,kubisikana,ku,bisikana,#NAME?,"to cross another's path, bypass",not set,not set,not set,NULL,0,1
+82,not set,kubiza,ku,biza,#NAME?,to boil,not set,not set,not set,NULL,0,1
+83,not set,kubobera,ku,bobera,#NAME?,"to be soft, wet",not set,not set,not set,NULL,0,1
+84,not set,kubobeza,ku,bobeza,#NAME?,"to make soft, wet",not set,not set,not set,NULL,0,1
+85,not set,kuboha,ku,boha,#NAME?,"to bind, tie, weave, knit",not set,not set,not set,NULL,0,1
+86,not set,kubohekanya,ku,bohekanya,#NAME?,"to braid, twist",not set,not set,not set,NULL,0,1
+87,not set,kubohora,ku,bohora,#NAME?,"to release, liberate",not set,not set,not set,NULL,0,1
+88,not set,kubona,ku,bona,#NAME?,"to see, find, get",not set,not set,not set,NULL,0,1
+89,not set,kubonana,ku,bonana,#NAME?,"to see each other, find each other",not set,not set,not set,NULL,0,1
+90,not set,kuboneka,ku,boneka,#NAME?,"to be visible, appear, show up, be available",not set,not set,not set,NULL,0,1
+91,not set,kubonera,ku,bonera,#NAME?,"to see at (for the first time), meet at, find at",not set,not set,not set,NULL,0,1
+92,not set,kuboneza,ku,boneza,#NAME?,"to make clean, visible, pure",not set,not set,not set,NULL,0,1
+93,not set,kubonwa,ku,bonwa,#NAME?,to be seen,not set,not set,not set,NULL,0,1
+94,not set,kubora,ku,bora,#NAME?,"to rot, decay",not set,not set,not set,NULL,0,1
+95,not set,kuboroga,ku,boroga,#NAME?,"to howl, wail",not set,not set,not set,NULL,0,1
+96,not set,kubuguza,ku,buguza,#NAME?,to play the board game {igisoro},not set,not set,not set,NULL,0,1
+97,not set,kubumba,ku,bumba,#NAME?,"to make bricks, pottery, mould clay",not set,not set,not set,NULL,0,1
+98,not set,kubumbira,ku,bumbira,#NAME?,to make bricks for someone else,not set,not set,not set,NULL,0,1
+99,not set,kubunga,ku,bunga,#NAME?,to wander,not set,not set,not set,NULL,0,1
+100,not set,kubunguka,ku,bunguka,#NAME?,to return from wandering,not set,not set,not set,NULL,0,1
+101,not set,kubunza,ku,bunza,#NAME?,to go from place to place selling something,not set,not set,not set,NULL,0,1
+102,not set,kubura,ku,bura,#NAME?,"to lack, lose, not find",not set,not set,not set,NULL,0,1
+103,not set,kuburana,ku,burana,#NAME?,to defend oneself in response to accusation,not set,not set,not set,NULL,0,1
+104,not set,kuburira,ku,burira,#NAME?,to lose something at,not set,not set,not set,NULL,0,1
+105,not set,kubuyera,ku,buyera,#NAME?,"to wander about, be a vagabond",not set,not set,not set,NULL,0,1
+106,not set,kubuyereza,ku,buyereza,#NAME?,to cause someone to wander about,not set,not set,not set,NULL,0,1
+107,not set,kubuza,ku,buza,#NAME?,"to forbid, prevent, stop",not set,not set,not set,NULL,0,1
+108,not set,kubuzwa,ku,buzwa,#NAME?,to be forbidden,not set,not set,not set,NULL,0,1
+109,not set,kubwagura,ku,bwagura,#NAME?,to give birth,not set,not set,not set,NULL,0,1
+110,not set,kubwegeka,ku,bwegeka,#NAME?,to be pregnant,not set,not set,not set,NULL,0,1
+111,not set,kubwira,ku,bwira,#NAME?,to tell,not set,not set,not set,NULL,0,1
+112,not set,kubwiriza,ku,bwiriza,#NAME?,"to preach, incite",not set,not set,not set,NULL,0,1
+113,not set,kubyara,ku,byara,#NAME?,"to give birth, deliver",not set,not set,not set,NULL,0,1
+114,not set,kubyaza,ku,byaza,#NAME?,to cause to give birth,not set,not set,not set,NULL,0,1
+115,not set,kubyibuha,ku,byibuha,#NAME?,"to gain weight, become heavier",not set,not set,not set,NULL,0,1
+116,not set,kubyiga,ku,byiga,#NAME?,to be squashing someone with one's body,not set,not set,not set,NULL,0,1
+117,not set,kubyimba,ku,byimba,#NAME?,to swell,not set,not set,not set,NULL,0,1
+118,not set,kubyina,ku,byina,#NAME?,to dance,not set,not set,not set,NULL,0,1
+119,not set,kubyiruka,ku,byiruka,#NAME?,to be a young adult (approximately from age 15 to 40),not set,not set,not set,NULL,0,1
+120,not set,kubyuka,ku,byuka,#NAME?,"to wake up, arise",not set,not set,not set,NULL,0,1
+121,not set,kubyutsa,ku,byutsa,#NAME?,to wake someone up,not set,not set,not set,NULL,0,1
+122,not set,guca,gu,ca,#NAME?,"to cut, tear",not set,not set,not set,NULL,0,1
+123,not set,gucagagura,gu,cagagura,#NAME?,"to chop up, parse",not set,not set,not set,NULL,0,1
+124,not set,gucagata,gu,cagata,#NAME?,to be half filled,not set,not set,not set,NULL,0,1
+125,not set,gucana,gu,cana,#NAME?,"to switch on, ignite, light",not set,not set,not set,NULL,0,1
+126,not set,gucanwa,gu,canwa,#NAME?,"to be switched on, ignited",not set,not set,not set,NULL,0,1
+127,not set,gucapa,gu,capa,#NAME?,to print,not set,not set,not set,NULL,0,1
+128,not set,gucapisha,gu,capisha,#NAME?,to have something printed,not set,not set,not set,NULL,0,1
+129,not set,guceceka,gu,ceceka,#NAME?,"to be silent, quiet, stop talking",not set,not set,not set,NULL,0,1
+130,not set,gucenga,gu,cenga,#NAME?,"to trick, dodge",not set,not set,not set,NULL,0,1
+131,not set,gucengera,gu,cengera,#NAME?,"to come to a place undetected, be insurgent, infiltrate",not set,not set,not set,NULL,0,1
+132,not set,gucengeza,gu,cengeza,#NAME?,"to insert, cause to penetrate",not set,not set,not set,NULL,0,1
+133,not set,gucika,gu,cika,#NAME?,to be torn,not set,not set,not set,NULL,0,1
+134,not set,gucikura,gu,cikura,#NAME?,to have a child with your brother's wife if he dies before providing a heir,not set,not set,not set,NULL,0,1
+135,not set,gucikwa,gu,cikwa,#NAME?,"to make an error, err, miscalculate",not set,not set,not set,NULL,0,1
+136,not set,gucira,gu,cira,#NAME?,to spit,not set,not set,not set,NULL,0,1
+137,not set,guciririkanya,gu,ciririkanya,#NAME?,"to bargain, negotiate price",not set,not set,not set,NULL,0,1
+138,not set,gucirwa,gu,cirwa,#NAME?,to be spat on,not set,not set,not set,NULL,0,1
+139,not set,gucogora,gu,cogora,#NAME?,"to be reduce, less, decreased",not set,not set,not set,NULL,0,1
+140,not set,gucogoza,gu,cogoza,#NAME?,"to reduce, lessen, decrease, weaken",not set,not set,not set,NULL,0,1
+141,not set,gucomeka,gu,comeka,#NAME?,"to plug in, insert",not set,not set,not set,NULL,0,1
+142,not set,gucomekora,gu,comekora,#NAME?,"to unplug, remove",not set,not set,not set,NULL,0,1
+143,not set,gucucuma,gu,cucuma,#NAME?,to mash,not set,not set,not set,NULL,0,1
+144,not set,gucuga,gu,cuga,#NAME?,to penetrate slightly,not set,not set,not set,NULL,0,1
+145,not set,gucugusa,gu,cugusa,#NAME?,to shake something to mix it,not set,not set,not set,NULL,0,1
+146,not set,gucukura,gu,cukura,#NAME?,"to dig a hole, mine",not set,not set,not set,NULL,0,1
+147,not set,gucumba,gu,cumba,#NAME?,to give off smoke,not set,not set,not set,NULL,0,1
+148,not set,gucumbika,gu,cumbika,#NAME?,"to stay temporarily, find lodging",not set,not set,not set,NULL,0,1
+149,not set,gucumbikira,gu,cumbikira,#NAME?,to give lodging to,not set,not set,not set,NULL,0,1
+150,not set,gucumbukura,gu,cumbukura,#NAME?,to leave a place of lodging,not set,not set,not set,NULL,0,1
+151,not set,gucumita,gu,cumita,#NAME?,"to penetrate, pierce",not set,not set,not set,NULL,0,1
+152,not set,gucumura,gu,cumura,#NAME?,to sin,not set,not set,not set,NULL,0,1
+153,not set,gucunda,gu,cunda,#NAME?,to separate {ikivuguto} into butter ({amavuta}) and buttermilk ({amacunda}),not set,not set,not set,NULL,0,1
+154,not set,gucunga,gu,cunga,#NAME?,to manage,not set,not set,not set,NULL,0,1
+155,not set,gucungura,gu,cungura,#NAME?,"to pay ransom, redeem",not set,not set,not set,NULL,0,1
+156,not set,gucura,gu,cura,#NAME?,to take all of something before other people have a chance,not set,not set,not set,NULL,0,1
+157,not set,gucuranga,gu,curanga,#NAME?,to play an instrument,not set,not set,not set,NULL,0,1
+158,not set,gucurika,gu,curika,#NAME?,to turn upside down,not set,not set,not set,NULL,0,1
+159,not set,gucuruza,gu,curuza,#NAME?,"to do business, trade",not set,not set,not set,NULL,0,1
+160,not set,gucuruzwa,gu,curuzwa,#NAME?,to be traded,not set,not set,not set,NULL,0,1
+161,not set,gucuya,gu,cuya,#NAME?,to fade,not set,not set,not set,NULL,0,1
+162,not set,gucya,gu,cya,cyeye,to change from night to day,not set,not set,not set,NULL,0,1
+163,not set,gucyaha,gu,cyaha,#NAME?,to rebuke,not set,not set,not set,NULL,0,1
+164,not set,gucyocyora,gu,cyocyora,#NAME?,"to jest, poke fun at",not set,not set,not set,NULL,0,1
+165,not set,gucyura,gu,cyura,#NAME?,"to bring back, lead home",not set,not set,not set,NULL,0,1
+166,not set,gucyurira,gu,cyurira,#NAME?,to constantly remind someone of their inferiority,not set,not set,not set,NULL,0,1
+167,not set,gucyurwa,gu,cyurwa,#NAME?,to be brought back home,not set,not set,not set,NULL,0,1
+168,not set,kudaha,ku,daha,#NAME?,to decant,not set,not set,not set,NULL,0,1
+169,not set,gudahambana,gu,dahambana,#NAME?,to not bury each other,not set,not set,not set,NULL,0,1
+170,not set,gudahemuka,gu,dahemuka,#NAME?,"to be faithful, not fail someone",not set,not set,not set,NULL,0,1
+171,not set,gudakemwa,gu,dakemwa,#NAME?,to not be tempted,not set,not set,not set,NULL,0,1
+172,not set,kudamarara,ku,damarara,#NAME?,"to lack nothing, have luxury",not set,not set,not set,NULL,0,1
+173,not set,kudasesa,ku,dasesa,dasheshe,"to not spend, not disperse",not set,not set,not set,NULL,0,1
+174,not set,kudedemanga,ku,dedemanga,#NAME?,"to babble, stammer, stutter",not set,not set,not set,NULL,0,1
+175,not set,kudeha,ku,deha,#NAME?,to be lazy,not set,not set,not set,NULL,0,1
+176,not set,kudiha,ku,diha,#NAME?,to perform traditional dance,not set,not set,not set,NULL,0,1
+177,not set,kudindiza,ku,dindiza,#NAME?,"to hinder, prevent another from advancing",not set,not set,not set,NULL,0,1
+178,not set,kudoda,ku,doda,#NAME?,to sew,not set,not set,not set,NULL,0,1
+179,not set,kudodwa,ku,dodwa,#NAME?,to be sewed,not set,not set,not set,NULL,0,1
+180,not set,kududubiza,ku,dudubiza,#NAME?,"to well up, spring up (liquid)",not set,not set,not set,NULL,0,1
+181,not set,kwegama,kw,egama,#NAME?,to be leaning (as person),not set,not set,not set,NULL,0,1
+182,not set,kwegamira,kw,egamira,#NAME?,to lean against something (as person),not set,not set,not set,NULL,0,1
+183,not set,kwegeka,kw,egeka,#NAME?,to lean or place object against something,not set,not set,not set,NULL,0,1
+184,not set,kwegera,kw,egera,#NAME?,"to approach, draw near",not set,not set,not set,NULL,0,1
+185,not set,kwegeranya,kw,egeranya,#NAME?,to bring together,not set,not set,not set,NULL,0,1
+186,not set,kwegereza,kw,egereza,#NAME?,to bring something to another,not set,not set,not set,NULL,0,1
+187,not set,kweguka,kw,eguka,#NAME?,"to straighten up, become straight or upright",not set,not set,not set,NULL,0,1
+188,not set,kwegukira,kw,egukira,#NAME?,to keep something straight or upright,not set,not set,not set,NULL,0,1
+189,not set,kwegurira,kw,egurira,#NAME?,"to give completely, without conditions",not set,not set,not set,NULL,0,1
+190,not set,kwemera,kw,emera,#NAME?,"to accept, agree, admit, be willing",not set,not set,not set,NULL,0,1
+191,not set,kwemerera,kw,emerera,#NAME?,"to allow, permit someone, promise",not set,not set,not set,NULL,0,1
+192,not set,kwenda,kw,enda,#NAME?,"to commit adultery, fornicate",not set,not set,not set,NULL,0,1
+193,not set,kwenga,kw,enga,#NAME?,to brew beer,not set,not set,not set,NULL,0,1
+194,not set,kwera,kw,era,#NAME?,to be white,not set,not set,not set,NULL,0,1
+195,not set,kwereka,kw,ereka,#NAME?,to show,not set,not set,not set,NULL,0,1
+196,not set,kwerekana,kw,erekana,#NAME?,to show to each other,not set,not set,not set,NULL,0,1
+197,not set,kwerekera,kw,erekera,#NAME?,to turn toward,not set,not set,not set,NULL,0,1
+198,not set,kwerekeza,kw,erekeza,#NAME?,"to direct, cause to turn toward",not set,not set,not set,NULL,0,1
+199,not set,kwererana,kw,ererana,#NAME?,"to be very white, very pure",not set,not set,not set,NULL,0,1
+200,not set,kwerura,kw,erura,#NAME?,to expose the truth,not set,not set,not set,NULL,0,1
+201,not set,kwesa,kw,esa,#NAME?,to fulfil promise or agreement,not set,not set,not set,NULL,0,1
+202,not set,kwesura,kw,esura,#NAME?,to demonstrate that one has kept one's promise,not set,not set,not set,NULL,0,1
+203,not set,kweza,kw,eza,#NAME?,"to make pure, purify, exonerate, whiten",not set,not set,not set,NULL,0,1
+204,not set,kwezwa,kw,ezwa,#NAME?,"to be made pure, purified, exonerated",not set,not set,not set,NULL,0,1
+205,not set,gufana,gu,fana,#NAME?,to support,not set,not set,not set,NULL,0,1
+206,not set,gufasha,gu,fasha,#NAME?,"to help, assist",not set,not set,not set,NULL,0,1
+207,not set,gufashisha,gu,fashisha,#NAME?,"to help, assist by giving",not set,not set,not set,NULL,0,1
+208,not set,gufashwa,gu,fashwa,#NAME?,"to be helped, assisted",not set,not set,not set,NULL,0,1
+209,not set,gufata,gu,fata,#NAME?,"to take, catch, grasp",not set,not set,not set,NULL,0,1
+210,not set,gufatanya,gu,fatanya,#NAME?,"to cooperate, share, partner, join",not set,not set,not set,NULL,0,1
+211,not set,gufinda,gu,finda,#NAME?,"to encode, encrypt, hide",not set,not set,not set,NULL,0,1
+212,not set,gufindura,gu,findura,#NAME?,"to decode, uncover, decrypt, unhide",not set,not set,not set,NULL,0,1
+213,not set,gufora,gu,fora,#NAME?,"to aim at, guess",not set,not set,not set,NULL,0,1
+214,not set,gufotora,gu,fotora,#NAME?,to take photograph (photo),not set,not set,not set,NULL,0,1
+215,not set,gufotorwa,gu,fotorwa,#NAME?,to be photographed,not set,not set,not set,NULL,0,1
+216,not set,gufudika,gu,fudika,#NAME?,"to err, make a mistake",not set,not set,not set,NULL,0,1
+217,not set,gufunga,gu,funga,#NAME?,"to close, shut, imprison, lock, logout, fast",not set,not set,not set,NULL,0,1
+218,not set,gufungana,gu,fungana,#NAME?,to be narrow,not set,not set,not set,NULL,0,1
+219,not set,gufunguka,gu,funguka,#NAME?,"to be open, unlocked",not set,not set,not set,NULL,0,1
+220,not set,gufungura,gu,fungura,#NAME?,to open,not set,not set,not set,NULL,0,1
+221,not set,gufungurwa,gu,fungurwa,#NAME?,to be opened,not set,not set,not set,NULL,0,1
+222,not set,gufungwa,gu,fungwa,#NAME?,"to be closed, shut, imprisoned, locked",not set,not set,not set,NULL,0,1
+223,not set,gufunyanga,gu,funyanga,#NAME?,"to knead (bread), kick in the womb (baby)",not set,not set,not set,NULL,0,1
+224,not set,gufura,gu,fura,#NAME?,to wash clothes,not set,not set,not set,NULL,0,1
+225,not set,kugaba,ku,gaba,#NAME?,"to give, deploy, put forth",not set,not set,not set,NULL,0,1
+226,not set,kugabanuka,ku,gabanuka,#NAME?,"to be diminished, reduced, decreased",not set,not set,not set,NULL,0,1
+227,not set,kugabanura,ku,gabanura,#NAME?,"to reduce, lessen, decrease, weaken something",not set,not set,not set,NULL,0,1
+228,not set,kugabanya,ku,gabanya,#NAME?,"to divide, allot, reduce",not set,not set,not set,NULL,0,1
+229,not set,kugabanyika,ku,gabanyika,#NAME?,"to be divided, allotted, reduced",not set,not set,not set,NULL,0,1
+230,not set,kugabiza,ku,gabiza,#NAME?,"to turn someone over to police, report on, inform on",not set,not set,not set,NULL,0,1
+231,not set,kugaburira,ku,gaburira,#NAME?,"to feed, give food",not set,not set,not set,NULL,0,1
+232,not set,kugaburirwa,ku,gaburirwa,#NAME?,"to be fed, given food",not set,not set,not set,NULL,0,1
+233,not set,kugaga,ku,gaga,#NAME?,"to spoil, be spoiled (food)",not set,not set,not set,NULL,0,1
+234,not set,kugagara,ku,gagara,#NAME?,"to become stiff, stiffen",not set,not set,not set,NULL,0,1
+235,not set,kugagaza,ku,gagaza,#NAME?,"to make stiff, stiffen",not set,not set,not set,NULL,0,1
+236,not set,kugamba,ku,gamba,#NAME?,to talk,not set,not set,not set,NULL,0,1
+237,not set,kugambana,ku,gambana,#NAME?,to betray,not set,not set,not set,NULL,0,1
+238,not set,kugambirira,ku,gambirira,#NAME?,"to decide, determine, plan, plot, be intent",not set,not set,not set,NULL,0,1
+239,not set,kugana,ku,gana,#NAME?,"to go forward, advance, proceed",not set,not set,not set,NULL,0,1
+240,not set,kuganira,ku,ganira,#NAME?,"to chat, converse, discuss",not set,not set,not set,NULL,0,1
+241,not set,kuganya,ku,ganya,#NAME?,"to moan, groan, wail, grieve, lament",not set,not set,not set,NULL,0,1
+242,not set,kuganyira,ku,ganyira,#NAME?,to complain,not set,not set,not set,NULL,0,1
+243,not set,kuganza,ku,ganza,#NAME?,"to conquer, utterly defeat, rout",not set,not set,not set,NULL,0,1
+244,not set,kuganzwa,ku,ganzwa,#NAME?,"to be conquered, utterly defeated",not set,not set,not set,NULL,0,1
+245,not set,kugaragara,ku,garagara,#NAME?,"to be visible, clear, obvious, evident",not set,not set,not set,NULL,0,1
+246,not set,kugaragaza,ku,garagaza,#NAME?,"to make visible, clear, obvious",not set,not set,not set,NULL,0,1
+247,not set,kugaragazwa,ku,garagazwa,#NAME?,"to be made visible, clear, obvious",not set,not set,not set,NULL,0,1
+248,not set,kugarama,ku,garama,#NAME?,to lie on one's back,not set,not set,not set,NULL,0,1
+249,not set,kugaruka,ku,garuka,#NAME?,to return here,not set,not set,not set,NULL,0,1
+250,not set,kugashya,ku,gashya,#NAME?,"to row, paddle",not set,not set,not set,NULL,0,1
+251,not set,kugaya,ku,gaya,#NAME?,"to be ungrateful, unappreciative",not set,not set,not set,NULL,0,1
+252,not set,kugemura,ku,gemura,#NAME?,to bring food,not set,not set,not set,NULL,0,1
+253,not set,kugemurira,ku,gemurira,#NAME?,to bring food to someone,not set,not set,not set,NULL,0,1
+254,not set,kugemurirwa,ku,gemurirwa,#NAME?,to be brought food,not set,not set,not set,NULL,0,1
+255,not set,kugena,ku,gena,#NAME?,"to plan for, decide, assign",not set,not set,not set,NULL,0,1
+256,not set,kugenda,ku,genda,#NAME?,"to go, leave, walk",not set,not set,not set,NULL,0,1
+257,not set,kugendagenda,ku,gendagenda,#NAME?,to walk about,not set,not set,not set,NULL,0,1
+258,not set,kugendana,ku,gendana,#NAME?,"to go together, accompany, escort",not set,not set,not set,NULL,0,1
+259,not set,kugendanwa,ku,gendanwa,#NAME?,"to be accompanied, escorted",not set,not set,not set,NULL,0,1
+260,not set,kugenera,ku,genera,#NAME?,to allocate role or thing to a person,not set,not set,not set,NULL,0,1
+261,not set,kugenga,ku,genga,#NAME?,"to legislate, govern",not set,not set,not set,NULL,0,1
+262,not set,kugengarara,ku,gengarara,#NAME?,"to become wide, widespread",not set,not set,not set,NULL,0,1
+263,not set,kugenza,ku,genza,#NAME?,"to demonstrate, show how, do",not set,not set,not set,NULL,0,1
+264,not set,kugenzereza,ku,genzereza,#NAME?,to do something in specific way for someone,not set,not set,not set,NULL,0,1
+265,not set,kugenzura,ku,genzura,#NAME?,to investigate,not set,not set,not set,NULL,0,1
+266,not set,kugera,ku,gera,#NAME?,"to reach, arrive, measure",not set,not set,not set,NULL,0,1
+267,not set,kugerageza,ku,gerageza,#NAME?,"to try, attempt, tempt",not set,not set,not set,NULL,0,1
+268,not set,kugereka,ku,gereka,#NAME?,"to place on top of something else, stack, append",not set,not set,not set,NULL,0,1
+269,not set,kugerekerana,ku,gerekerana,#NAME?,"to be stacked on each other, be cascading",not set,not set,not set,NULL,0,1
+270,not set,kugereranya,ku,gereranya,#NAME?,"to compare, estimate",not set,not set,not set,NULL,0,1
+271,not set,kugerwa,ku,gerwa,#NAME?,to be reached,not set,not set,not set,NULL,0,1
+272,not set,kugesa,ku,gesa,#NAME?,"to harvest millet, wheat or sorghum",not set,not set,not set,NULL,0,1
+273,not set,kugeza,ku,geza,#NAME?,"to end with, reach, until",not set,not set,not set,NULL,0,1
+274,not set,kugimba,ku,gimba,#NAME?,to be in puberty (boy),not set,not set,not set,NULL,0,1
+275,not set,kugingimira,ku,gingimira,#NAME?,"to stutter, stammer, hesitate",not set,not set,not set,NULL,0,1
+276,not set,kugingimiranya,ku,gingimiranya,#NAME?,"to hesitate, be fearful",not set,not set,not set,NULL,0,1
+277,not set,kugira,ku,gira,#NAME?,"to have, make",not set,not set,not set,NULL,0,1
+278,not set,kugirwa,ku,girwa,#NAME?,"to be made of, composed of",not set,not set,not set,NULL,0,1
+279,not set,kugisha,ku,gisha,#NAME?,to move to find pasture,not set,not set,not set,NULL,0,1
+280,not set,kugisha inama,ku,gisha inama,#NAME?,"to ask for advice, consult",not set,not set,not set,NULL,0,1
+281,not set,kugishwa inama,ku,gishwa inama,#NAME?,"to be asked for advice, consulted",not set,not set,not set,NULL,0,1
+282,not set,kugoboka,ku,goboka,#NAME?,to unexpectedly help or aid,not set,not set,not set,NULL,0,1
+283,not set,kugoma,ku,goma,#NAME?,"to rebel, disobey",not set,not set,not set,NULL,0,1
+284,not set,kugomba,ku,gomba,#NAME?,"to have to, need to, must, should",not set,not set,not set,NULL,0,1
+285,not set,kugora,ku,gora,#NAME?,"to be difficult, troublesome",not set,not set,not set,NULL,0,1
+286,not set,kugorama,ku,gorama,#NAME?,to bend,not set,not set,not set,NULL,0,1
+287,not set,kugoroba,ku,goroba,#NAME?,to become evening or later in the day,not set,not set,not set,NULL,0,1
+288,not set,kugorora,ku,gorora,#NAME?,"to make straight, straighten, iron",not set,not set,not set,NULL,0,1
+289,not set,kugororera,ku,gororera,#NAME?,"to reward, recompense (as king)",not set,not set,not set,NULL,0,1
+290,not set,kugororoka,ku,gororoka,#NAME?,"to become straight, be flexible",not set,not set,not set,NULL,0,1
+291,not set,kugorwa,ku,gorwa,#NAME?,"to be unfortunate, unlucky",not set,not set,not set,NULL,0,1
+292,not set,kugota,ku,gota,#NAME?,"to encircle, surround",not set,not set,not set,NULL,0,1
+293,not set,kugubwa,ku,gubwa,#NAME?,to feel physically,not set,not set,not set,NULL,0,1
+294,not set,kuguma,ku,guma,#NAME?,"to stay, remain",not set,not set,not set,NULL,0,1
+295,not set,kugumana,ku,gumana,#NAME?,"to stay with, remain with",not set,not set,not set,NULL,0,1
+296,not set,kugura,ku,gura,#NAME?,"to buy, purchase",not set,not set,not set,NULL,0,1
+297,not set,kugurana,ku,gurana,#NAME?,"to exchange, swap",not set,not set,not set,NULL,0,1
+298,not set,kugurira,ku,gurira,#NAME?,"to buy for, buy from",not set,not set,not set,NULL,0,1
+299,not set,kugurisha,ku,gurisha,#NAME?,to sell,not set,not set,not set,NULL,0,1
+300,not set,kugurishwa,ku,gurishwa,#NAME?,to be sold,not set,not set,not set,NULL,0,1
+301,not set,kuguriza,ku,guriza,#NAME?,to lend money to someone,not set,not set,not set,NULL,0,1
+302,not set,kuguruka,ku,guruka,#NAME?,to fly,not set,not set,not set,NULL,0,1
+303,not set,kugurwa,ku,gurwa,#NAME?,to be bought,not set,not set,not set,NULL,0,1
+304,not set,kugusha,ku,gusha,#NAME?,"to cause to fall, take down",not set,not set,not set,NULL,0,1
+305,not set,kuguza,ku,guza,#NAME?,"to borrow, lend",not set,not set,not set,NULL,0,1
+306,not set,kugwa,ku,gwa,#NAME?,to fall,not set,not set,not set,NULL,0,1
+307,not set,kugwa agacuho,ku,gwa agacuho,#NAME?,to be overcome by tiredness,not set,not set,not set,NULL,0,1
+308,not set,kugwa gitumo,ku,gwa gitumo,#NAME?,"to happen suddenly or unexpectedly, catch red handed",not set,not set,not set,NULL,0,1
+309,not set,kugwa isari,ku,gwa isari,#NAME?,"to faint, be tired, hungry and thirsty",not set,not set,not set,NULL,0,1
+310,not set,kugwa ivutu,ku,gwa ivutu,#NAME?,"to overeat, eat too much",not set,not set,not set,NULL,0,1
+311,not set,kugwa nabi,ku,gwa nabi,#NAME?,to be badly behaved,not set,not set,not set,NULL,0,1
+312,not set,kugwa neza,ku,gwa neza,#NAME?,to be well behaved,not set,not set,not set,NULL,0,1
+313,not set,kugwira,ku,gwira,#NAME?,"to be accumulated, multiplied",not set,not set,not set,NULL,0,1
+314,not set,kugwiza,ku,gwiza,#NAME?,to accumulate or multiply something,not set,not set,not set,NULL,0,1
+315,not set,guha,gu,ha,#NAME?,to give to,not set,not set,not set,NULL,0,1
+316,not set,guhaba,gu,haba,#NAME?,"to be lost, wander about with hope of finding the way",not set,not set,not set,NULL,0,1
+317,not set,guhabuka,gu,habuka,#NAME?,to find the way after being lost,not set,not set,not set,NULL,0,1
+318,not set,guhabwa,gu,habwa,#NAME?,"to be given, receive",not set,not set,not set,NULL,0,1
+319,not set,guhaga,gu,haga,#NAME?,"to be full, satisfied",not set,not set,not set,NULL,0,1
+320,not set,guhagarara,gu,hagarara,#NAME?,"to stop, stand",not set,not set,not set,NULL,0,1
+321,not set,guhagararira,gu,hagararira,#NAME?,"to represent, stand in for, take another's place temporarily",not set,not set,not set,NULL,0,1
+322,not set,guhagarika,gu,hagarika,#NAME?,to cause to stop or stand,not set,not set,not set,NULL,0,1
+323,not set,guhaguruka,gu,haguruka,#NAME?,"to stand up, arise",not set,not set,not set,NULL,0,1
+324,not set,guhagurutsa,gu,hagurutsa,#NAME?,to cause one to stand,not set,not set,not set,NULL,0,1
+325,not set,guhaha,gu,haha,#NAME?,"to exchange, trade something (including labour)",not set,not set,not set,NULL,0,1
+326,not set,guhahamuka,gu,hahamuka,#NAME?,to be traumatised,not set,not set,not set,NULL,0,1
+327,not set,guhaka,gu,haka,#NAME?,to be pregnant,not set,not set,not set,NULL,0,1
+328,not set,guhakana,gu,hakana,#NAME?,"to deny, refuse, reject",not set,not set,not set,NULL,0,1
+329,not set,guhama,gu,hama,#NAME?,"to remain, stay",not set,not set,not set,NULL,0,1
+330,not set,guhamagara,gu,hamagara,#NAME?,to call (by phone),not set,not set,not set,NULL,0,1
+331,not set,guhamba,gu,hamba,#NAME?,to bury someone,not set,not set,not set,NULL,0,1
+332,not set,guhambana,gu,hambana,#NAME?,"to bury each other, take care of each other",not set,not set,not set,NULL,0,1
+333,not set,guhambira,gu,hambira,#NAME?,"to tie up, bind, wrap",not set,not set,not set,NULL,0,1
+334,not set,guhambuka,gu,hambuka,#NAME?,"to become untied, loose",not set,not set,not set,NULL,0,1
+335,not set,guhambura,gu,hambura,#NAME?,"to untie, unwrap",not set,not set,not set,NULL,0,1
+336,not set,guhambwa,gu,hambwa,#NAME?,to be buried,not set,not set,not set,NULL,0,1
+337,not set,guhamiriza,gu,hamiriza,#NAME?,to testify to,not set,not set,not set,NULL,0,1
+338,not set,guhamuka,gu,hamuka,#NAME?,to be cowardly,not set,not set,not set,NULL,0,1
+339,not set,guhamya,gu,hamya,#NAME?,"to witness, testify, affirm, authenticate",not set,not set,not set,NULL,0,1
+340,not set,guhana,gu,hana,#NAME?,"to correct, reprimand",not set,not set,not set,NULL,0,1
+341,not set,guhanagura,gu,hanagura,#NAME?,"to rub, polish, wipe, dust",not set,not set,not set,NULL,0,1
+342,not set,guhanga,gu,hanga,#NAME?,to perform a piece of music,not set,not set,not set,NULL,0,1
+343,not set,guhangana,gu,hangana,#NAME?,"to oppose, face each other",not set,not set,not set,NULL,0,1
+344,not set,guhangara,gu,hangara,#NAME?,to win despite being the underdog,not set,not set,not set,NULL,0,1
+345,not set,guhangayika,gu,hangayika,#NAME?,"to worry, be anxious, worried",not set,not set,not set,NULL,0,1
+346,not set,guhanguka,gu,hanguka,#NAME?,"to cease to be best, go out of fashion",not set,not set,not set,NULL,0,1
+347,not set,guhangwa,gu,hangwa,#NAME?,"to be possessed by, invented by, created by",not set,not set,not set,NULL,0,1
+348,not set,guhanika,gu,hanika,#NAME?,to be put above,not set,not set,not set,NULL,0,1
+349,not set,guhanuka,gu,hanuka,#NAME?,to fall from above,not set,not set,not set,NULL,0,1
+350,not set,guhanura,gu,hanura,#NAME?,to pull down,not set,not set,not set,NULL,0,1
+351,not set,guhanuza,gu,hanuza,#NAME?,to seek prophesy,not set,not set,not set,NULL,0,1
+352,not set,guhanwa,gu,hanwa,#NAME?,"to be corrected, reprimanded",not set,not set,not set,NULL,0,1
+353,not set,guhara,gu,hara,#NAME?,"to give up, let something go",not set,not set,not set,NULL,0,1
+354,not set,guharanira,gu,haranira,#NAME?,to strive for,not set,not set,not set,NULL,0,1
+355,not set,guharura,gu,harura,#NAME?,"to scrape, scratch, dig just the topsoil",not set,not set,not set,NULL,0,1
+356,not set,guhata,gu,hata,#NAME?,to peel with knife,not set,not set,not set,NULL,0,1
+357,not set,guhatwa,gu,hatwa,#NAME?,to be peeled with knife,not set,not set,not set,NULL,0,1
+358,not set,guhaza,gu,haza,#NAME?,"to satisfy, be sufficient, enough",not set,not set,not set,NULL,0,1
+359,not set,guheba,gu,heba,#NAME?,to be lost forever,not set,not set,not set,NULL,0,1
+360,not set,guhebuza,gu,hebuza,#NAME?,"to exceed, be superior",not set,not set,not set,NULL,0,1
+361,not set,guheheta,gu,heheta,#NAME?,to lust,not set,not set,not set,NULL,0,1
+362,not set,guheka,gu,heka,#NAME?,"to carry, transport",not set,not set,not set,NULL,0,1
+363,not set,guhekenya,gu,hekenya,#NAME?,to chew,not set,not set,not set,NULL,0,1
+364,not set,guhekenywa,gu,hekenywa,#NAME?,to be chewed,not set,not set,not set,NULL,0,1
+365,not set,guhekwa,gu,hekwa,#NAME?,"to be carried on someone's back, given a ride on bike",not set,not set,not set,NULL,0,1
+366,not set,guhemba,gu,hemba,#NAME?,"to pay for something done, reward",not set,not set,not set,NULL,0,1
+367,not set,guhembera,gu,hembera,#NAME?,"to pay at, reward at",not set,not set,not set,NULL,0,1
+368,not set,guhemberwa,gu,hemberwa,#NAME?,"to be paid at, rewarded at",not set,not set,not set,NULL,0,1
+369,not set,guhembwa,gu,hembwa,#NAME?,"to earn, rewarded, be paid for something done",not set,not set,not set,NULL,0,1
+370,not set,guhemuka,gu,hemuka,#NAME?,"to be unfaithful, fail someone",not set,not set,not set,NULL,0,1
+371,not set,guhemura,gu,hemura,#NAME?,"to treat very badly, abuse",not set,not set,not set,NULL,0,1
+372,not set,guhemurwa,gu,hemurwa,#NAME?,"to be treated very badly, abused",not set,not set,not set,NULL,0,1
+373,not set,guhenda,gu,henda,#NAME?,"to overcharge, charge too much, be expensive",not set,not set,not set,NULL,0,1
+374,not set,guhendahenda,gu,hendahenda,#NAME?,"to beg, beseech, plead",not set,not set,not set,NULL,0,1
+375,not set,guhenduka,gu,henduka,#NAME?,to be cheap,not set,not set,not set,NULL,0,1
+376,not set,guhendwa,gu,hendwa,#NAME?,to be overcharged,not set,not set,not set,NULL,0,1
+377,not set,guhera,gu,hera,#NAME?,"to end, cease, disappear",not set,not set,not set,NULL,0,1
+378,not set,guherekeza,gu,herekeza,#NAME?,"to accompany, escort",not set,not set,not set,NULL,0,1
+379,not set,guhererana,gu,hererana,#NAME?,"to be near, beside",not set,not set,not set,NULL,0,1
+380,not set,guhererekanya,gu,hererekanya,#NAME?,"to convey, transmit",not set,not set,not set,NULL,0,1
+381,not set,guheruka,gu,heruka,#NAME?,"to be last, come last, have done recently",not set,not set,not set,NULL,0,1
+382,not set,guherutsa,gu,herutsa,#NAME?,to have or make come last,not set,not set,not set,NULL,0,1
+383,not set,guheta,gu,heta,#NAME?,to bend,not set,not set,not set,NULL,0,1
+384,not set,guheza,gu,heza,#NAME?,"to send away, refuse permission to enter",not set,not set,not set,NULL,0,1
+385,not set,guhiga,gu,higa,#NAME?,to hunt,not set,not set,not set,NULL,0,1
+386,not set,guhihibikana,gu,hihibikana,#NAME?,to follow earnestly after,not set,not set,not set,NULL,0,1
+387,not set,guhimba,gu,himba,#NAME?,"to invent, write, author",not set,not set,not set,NULL,0,1
+388,not set,guhimbaza,gu,himbaza,#NAME?,to praise,not set,not set,not set,NULL,0,1
+389,not set,guhina,gu,hina,#NAME?,"to shorten, summarize, sum up",not set,not set,not set,NULL,0,1
+390,not set,guhinda,gu,hinda,#NAME?,to thunder,not set,not set,not set,NULL,0,1
+391,not set,guhinduka,gu,hinduka,#NAME?,"to become, be changed",not set,not set,not set,NULL,0,1
+392,not set,guhindukira,gu,hindukira,#NAME?,"to turn around, come back",not set,not set,not set,NULL,0,1
+393,not set,guhindukiza,gu,hindukiza,#NAME?,to turn something around,not set,not set,not set,NULL,0,1
+394,not set,guhindura,gu,hindura,#NAME?,"to change, edit, alter",not set,not set,not set,NULL,0,1
+395,not set,guhindurwa,gu,hindurwa,#NAME?,"to be changed, edited",not set,not set,not set,NULL,0,1
+396,not set,guhinga,gu,hinga,#NAME?,"to grow, cultivate, dig",not set,not set,not set,NULL,0,1
+397,not set,guhinguka,gu,hinguka,#NAME?,"to arrive, emerge",not set,not set,not set,NULL,0,1
+398,not set,guhingutsa,gu,hingutsa,#NAME?,"to cause to arrive, summon, place",not set,not set,not set,NULL,0,1
+399,not set,guhinyuka,gu,hinyuka,#NAME?,"to displease, disappoint",not set,not set,not set,NULL,0,1
+400,not set,guhinyura,gu,hinyura,#NAME?,"to scorn, criticize",not set,not set,not set,NULL,0,1
+401,not set,guhirika,gu,hirika,#NAME?,"to turn upside down, push away",not set,not set,not set,NULL,0,1
+402,not set,guhirwa,gu,hirwa,#NAME?,"to be lucky, blessed, fortunate",not set,not set,not set,NULL,0,1
+403,not set,guhisha,gu,hisha,#NAME?,"to hide, conceal",not set,not set,not set,NULL,0,1
+404,not set,guhishura,gu,hishura,#NAME?,to reveal,not set,not set,not set,NULL,0,1
+405,not set,guhita,gu,hita,#NAME?,to pass by,not set,not set,not set,NULL,0,1
+406,not set,guhitamo,gu,hitamo,#NAME?,"to select, choose, pick",not set,not set,not set,NULL,0,1
+407,not set,guhitwa,gu,hitwa,#NAME?,to have diarrhoea,not set,not set,not set,NULL,0,1
+408,not set,guhobera,gu,hobera,#NAME?,to embrace,not set,not set,not set,NULL,0,1
+409,not set,guhoberana,gu,hoberana,#NAME?,to embrace each other,not set,not set,not set,NULL,0,1
+410,not set,guhoma,gu,homa,#NAME?,to plaster,not set,not set,not set,NULL,0,1
+411,not set,guhomboka,gu,homboka,#NAME?,to speak without thinking,not set,not set,not set,NULL,0,1
+412,not set,guhonda,gu,honda,#NAME?,to beat,not set,not set,not set,NULL,0,1
+413,not set,guhondagura,gu,hondagura,#NAME?,"to knock down, smash",not set,not set,not set,NULL,0,1
+414,not set,guhonga,gu,honga,#NAME?,"to wilt, change expression on hearing bad news",not set,not set,not set,NULL,0,1
+415,not set,guhongerera,gu,hongerera,#NAME?,to atone,not set,not set,not set,NULL,0,1
+416,not set,guhonoka,gu,honoka,#NAME?,to survive (a calamity),not set,not set,not set,NULL,0,1
+417,not set,guhora,gu,hora,#NAME?,"to be always, continually",not set,not set,not set,NULL,0,1
+418,not set,guhorera,gu,horera,#NAME?,to make sound like approaching rain,not set,not set,not set,NULL,0,1
+419,not set,guhorota,gu,horota,#NAME?,to lose weight,not set,not set,not set,NULL,0,1
+420,not set,guhosha,gu,hosha,#NAME?,"to stop, prevent, quell",not set,not set,not set,NULL,0,1
+421,not set,guhotora,gu,hotora,#NAME?,to twist cords,not set,not set,not set,NULL,0,1
+422,not set,guhoza,gu,hoza,#NAME?,"to receive fare, receive rent",not set,not set,not set,NULL,0,1
+423,not set,guhubuka,gu,hubuka,#NAME?,"to fall from above, crowd",not set,not set,not set,NULL,0,1
+424,not set,guhuga,gu,huga,#NAME?,"to be busy, occupied, distracted",not set,not set,not set,NULL,0,1
+425,not set,guhugira,gu,hugira,#NAME?,"to be busy, occupied with something",not set,not set,not set,NULL,0,1
+426,not set,guhuguka,gu,huguka,#NAME?,"to be intelligent, skilled, capable",not set,not set,not set,NULL,0,1
+427,not set,guhugura,gu,hugura,#NAME?,"to arouse, inform, urge to correct one's ways",not set,not set,not set,NULL,0,1
+428,not set,guhugurwa,gu,hugurwa,#NAME?,"to be aroused, informed",not set,not set,not set,NULL,0,1
+429,not set,guhuguza,gu,huguza,#NAME?,to seize property of another,not set,not set,not set,NULL,0,1
+430,not set,guhuha,gu,huha,#NAME?,to blow (wind),not set,not set,not set,NULL,0,1
+431,not set,guhuhwa,gu,huhwa,#NAME?,to be light in weight,not set,not set,not set,NULL,0,1
+432,not set,guhuma,gu,huma,#NAME?,to be blind,not set,not set,not set,NULL,0,1
+433,not set,guhumagurika,gu,humagurika,#NAME?,to be totally blind,not set,not set,not set,NULL,0,1
+434,not set,guhumana,gu,humana,#NAME?,"to be defiled by breaking a taboo, have skin disease",not set,not set,not set,NULL,0,1
+435,not set,guhumanuka,gu,humanuka,#NAME?,to become clean,not set,not set,not set,NULL,0,1
+436,not set,guhumanura,gu,humanura,#NAME?,to make ceremonially clean,not set,not set,not set,NULL,0,1
+437,not set,guhumanya,gu,humanya,#NAME?,"to make unclean, defile",not set,not set,not set,NULL,0,1
+438,not set,guhumeka,gu,humeka,#NAME?,to breathe,not set,not set,not set,NULL,0,1
+439,not set,guhumekwa,gu,humekwa,#NAME?,to be inspired,not set,not set,not set,NULL,0,1
+440,not set,guhumiriza,gu,humiriza,#NAME?,to close one's eyes,not set,not set,not set,NULL,0,1
+441,not set,guhumuka,gu,humuka,#NAME?,to regain sight,not set,not set,not set,NULL,0,1
+442,not set,guhumura,gu,humura,#NAME?,to smell good,not set,not set,not set,NULL,0,1
+443,not set,guhumuriza,gu,humuriza,#NAME?,"to comfort, console, encourage",not set,not set,not set,NULL,0,1
+444,not set,guhumurizwa,gu,humurizwa,#NAME?,"to be comforted, be consoled, quietened",not set,not set,not set,NULL,0,1
+445,not set,guhumuza,gu,humuza,#NAME?,"to flavour, make smell good, make taste good",not set,not set,not set,NULL,0,1
+446,not set,guhunga,gu,hunga,#NAME?,"to flee, be exiled from",not set,not set,not set,NULL,0,1
+447,not set,guhungira,gu,hungira,#NAME?,"to be exiled to, flee to",not set,not set,not set,NULL,0,1
+448,not set,guhunguka,gu,hunguka,#NAME?,"to return from exile, be repatriated",not set,not set,not set,NULL,0,1
+449,not set,guhungura,gu,hungura,#NAME?,to remove corn from the cob,not set,not set,not set,NULL,0,1
+450,not set,guhunika,gu,hunika,#NAME?,to store crops in a granary,not set,not set,not set,NULL,0,1
+451,not set,guhunikira,gu,hunikira,#NAME?,"to nod off, doze",not set,not set,not set,NULL,0,1
+452,not set,guhunyiza,gu,hunyiza,#NAME?,"to nod off, doze",not set,not set,not set,NULL,0,1
+453,not set,guhunza amaso,gu,hunza amaso,#NAME?,to not look someone straight in the eye,not set,not set,not set,NULL,0,1
+454,not set,guhura,gu,hura,#NAME?,to meet,not set,not set,not set,NULL,0,1
+455,not set,guhurura,gu,hurura,#NAME?,"to go out against, run with crowd, charge, rescue",not set,not set,not set,NULL,0,1
+456,not set,guhuza,gu,huza,#NAME?,"to bring together, mediate, associate, connect",not set,not set,not set,NULL,0,1
+457,not set,guhwema,gu,hwema,#NAME?,"to cease, grow weary, rest, relax",not set,not set,not set,NULL,0,1
+458,not set,kwiba,kw,iba,#NAME?,"to steal, steal from",not set,not set,not set,NULL,0,1
+459,not set,kwibagirwa,kw,ibagirwa,#NAME?,to forget,not set,not set,not set,NULL,0,1
+460,not set,kwibana,kw,ibana,#NAME?,to live alone,not set,not set,not set,NULL,0,1
+461,not set,kwibanda,kw,ibanda,#NAME?,to concentrate on,not set,not set,not set,NULL,0,1
+462,not set,kwibeshya,kw,ibeshya,#NAME?,"to err, make a mistake",not set,not set,not set,NULL,0,1
+463,not set,kwibiza,kw,ibiza,#NAME?,to dip in water (part of body),not set,not set,not set,NULL,0,1
+464,not set,kwibona,kw,ibona,#NAME?,to be proud,not set,not set,not set,NULL,0,1
+465,not set,kwibuka,kw,ibuka,#NAME?,"to remember, recall",not set,not set,not set,NULL,0,1
+466,not set,kwiburanya,kw,iburanya,#NAME?,"to question, reason about",not set,not set,not set,NULL,0,1
+467,not set,kwibutsa,kw,ibutsa,#NAME?,to remind,not set,not set,not set,NULL,0,1
+468,not set,kwibwira,kw,ibwira,#NAME?,to think about,not set,not set,not set,NULL,0,1
+469,not set,kwica,kw,ica,#NAME?,to kill,not set,not set,not set,NULL,0,1
+470,not set,kwicara,kw,icara,#NAME?,to sit,not set,not set,not set,NULL,0,1
+471,not set,kwicaza,kw,icaza,#NAME?,to cause to sit,not set,not set,not set,NULL,0,1
+472,not set,kwicira,kw,icira,#NAME?,to kill for,not set,not set,not set,NULL,0,1
+473,not set,kwicisha,kw,icisha,#NAME?,to cause to kill,not set,not set,not set,NULL,0,1
+474,not set,kwicuma,kw,icuma,#NAME?,"to go ahead, move on",not set,not set,not set,NULL,0,1
+475,not set,kwicunda,kw,icunda,#NAME?,"to swing, be swinging",not set,not set,not set,NULL,0,1
+476,not set,kwicwa,kw,icwa,#NAME?,to be killed,not set,not set,not set,NULL,0,1
+477,not set,kwidagadura,kw,idagadura,#NAME?,"to enjoy oneself, have fun",not set,not set,not set,NULL,0,1
+478,not set,kwifasha,kw,ifasha,#NAME?,to help oneself,not set,not set,not set,NULL,0,1
+479,not set,kwifashisha,kw,ifashisha,#NAME?,"to help oneself to something, use",not set,not set,not set,NULL,0,1
+480,not set,kwifata,kw,ifata,#NAME?,to abstain,not set,not set,not set,NULL,0,1
+481,not set,kwifubika,kw,ifubika,#NAME?,"to cover oneself, wrap around oneself",not set,not set,not set,NULL,0,1
+482,not set,kwifuza,kw,ifuza,#NAME?,"to wish, desire",not set,not set,not set,NULL,0,1
+483,not set,kwifuzwa,kw,ifuzwa,#NAME?,to be desired,not set,not set,not set,NULL,0,1
+484,not set,kwiga,kw,iga,#NAME?,"to study, learn",not set,not set,not set,NULL,0,1
+485,not set,kwigana,kw,igana,#NAME?,"to study together, imitate",not set,not set,not set,NULL,0,1
+486,not set,kwiganyira,kw,iganyira,#NAME?,"to worry, be anxious, worried",not set,not set,not set,NULL,0,1
+487,not set,kwigaragambya,kw,igaragambya,#NAME?,"to riot, demonstrate",not set,not set,not set,NULL,0,1
+488,not set,kwigaragura,kw,igaragura,#NAME?,to thrash around as a sick person does,not set,not set,not set,NULL,0,1
+489,not set,kwigaya,kw,igaya,#NAME?,to be ashamed,not set,not set,not set,NULL,0,1
+490,not set,kwigendera,kw,igendera,#NAME?,to go by oneself,not set,not set,not set,NULL,0,1
+491,not set,kwigenga,kw,igenga,#NAME?,to be independent,not set,not set,not set,NULL,0,1
+492,not set,kwigera,kw,igera,#NAME?,"to have ever had, try on clothes",not set,not set,not set,NULL,0,1
+493,not set,kwigerezaho,kw,igerezaho,#NAME?,"to do something risky or difficult, dare",not set,not set,not set,NULL,0,1
+494,not set,kwigisha,kw,igisha,#NAME?,to teach,not set,not set,not set,NULL,0,1
+495,not set,kwigishwa,kw,igishwa,#NAME?,to be taught,not set,not set,not set,NULL,0,1
+496,not set,kwigomwa,kw,igomwa,#NAME?,"to give up, sacrifice, fast",not set,not set,not set,NULL,0,1
+497,not set,kwihagarika,kw,ihagarika,#NAME?,to go to the toilet,not set,not set,not set,NULL,0,1
+498,not set,kwihana,kw,ihana,#NAME?,to repent,not set,not set,not set,NULL,0,1
+499,not set,kwihanangiriza,kw,ihanangiriza,#NAME?,"to warn, threaten",not set,not set,not set,NULL,0,1
+500,not set,kwihandagaza,kw,ihandagaza,#NAME?,"to be apparent, obvious",not set,not set,not set,NULL,0,1
+501,not set,kwihangana,kw,ihangana,#NAME?,"to be patient, endure",not set,not set,not set,NULL,0,1
+502,not set,kwiharira,kw,iharira,#NAME?,"to be special, for a special purpose, not share with others",not set,not set,not set,NULL,0,1
+503,not set,kwiheba,kw,iheba,#NAME?,to despair,not set,not set,not set,NULL,0,1
+504,not set,kwiherera,kw,iherera,#NAME?,to be alone,not set,not set,not set,NULL,0,1
+505,not set,kwihorera,kw,ihorera,#NAME?,"to be silent, leave someone alone",not set,not set,not set,NULL,0,1
+506,not set,kwihugura,kw,ihugura,#NAME?,"to find out, learn, discover, be informed",not set,not set,not set,NULL,0,1
+507,not set,kwihuta,kw,ihuta,#NAME?,"to hurry, go quickly",not set,not set,not set,NULL,0,1
+508,not set,kwijima,kw,ijima,#NAME?,"to be dark, get dark",not set,not set,not set,NULL,0,1
+509,not set,kwijujuta,kw,ijujuta,#NAME?,"to murmur, be discontent",not set,not set,not set,NULL,0,1
+510,not set,kwikanga,kw,ikanga,#NAME?,to be startled,not set,not set,not set,NULL,0,1
+511,not set,kwikanyiza,kw,ikanyiza,#NAME?,"to be selfish, stingy",not set,not set,not set,NULL,0,1
+512,not set,kwikira,kw,ikira,#NAME?,to board a ship,not set,not set,not set,NULL,0,1
+513,not set,kwikora,kw,ikora,#NAME?,to do oneself,not set,not set,not set,NULL,0,1
+514,not set,kwikorera,kw,ikorera,#NAME?,"to carry (a load), carry on head",not set,not set,not set,NULL,0,1
+515,not set,kwikuba,kw,ikuba,#NAME?,to multiply oneself,not set,not set,not set,NULL,0,1
+516,not set,kwikubita imbere,kw,ikubita imbere,#NAME?,to fall down before (in respect),not set,not set,not set,NULL,0,1
+517,not set,kwikubura,kw,ikubura,#NAME?,to withdraw quickly,not set,not set,not set,NULL,0,1
+518,not set,kwikunda,kw,ikunda,#NAME?,"to love oneself, be selfish",not set,not set,not set,NULL,0,1
+519,not set,kwima,kw,ima,#NAME?,"to withhold, refuse to give",not set,not set,not set,NULL,0,1
+520,not set,kwimenya,kw,imenya,#NAME?,to know oneself,not set,not set,not set,NULL,0,1
+521,not set,kwimuka,kw,imuka,#NAME?,"to move, change residence, relocate",not set,not set,not set,NULL,0,1
+522,not set,kwimura,kw,imura,#NAME?,"to move something, shift, postpone",not set,not set,not set,NULL,0,1
+523,not set,kwinangira umutima,kw,inangira umutima,#NAME?,to harden one's heart,not set,not set,not set,NULL,0,1
+524,not set,kwinezeza,kw,inezeza,nejeje,"to please oneself, enjoy oneself",not set,not set,not set,NULL,0,1
+525,not set,kwinginga,kw,inginga,#NAME?,"to beg, beseech, plead with",not set,not set,not set,NULL,0,1
+526,not set,kwinja,kw,inja,#NAME?,to covertly gather information by questioning,not set,not set,not set,NULL,0,1
+527,not set,kwinjira,kw,injira,#NAME?,to enter,not set,not set,not set,NULL,0,1
+528,not set,kwinjwa,kw,injwa,#NAME?,to be investigated without knowing,not set,not set,not set,NULL,0,1
+529,not set,kwinuba,kw,inuba,#NAME?,"to complain, grumble",not set,not set,not set,NULL,0,1
+530,not set,kwinyagambura,kw,inyagambura,#NAME?,to move one's body without moving place,not set,not set,not set,NULL,0,1
+531,not set,kwira,kw,ira,#NAME?,"to change from day to night, be evening",not set,not set,not set,NULL,0,1
+532,not set,kwirabura,kw,irabura,#NAME?,to be black,not set,not set,not set,NULL,0,1
+533,not set,kwirata,kw,irata,#NAME?,to boast,not set,not set,not set,NULL,0,1
+534,not set,kwiregura,kw,iregura,#NAME?,to defend oneself against accusation,not set,not set,not set,NULL,0,1
+535,not set,kwirenga,kw,irenga,#NAME?,to overcome weakness,not set,not set,not set,NULL,0,1
+536,not set,kwirengagiza,kw,irengagiza,#NAME?,"to neglect, overlook, procrastinate",not set,not set,not set,NULL,0,1
+537,not set,kwirengera,kw,irengera,#NAME?,"to take responsibility for something, carry something without using your hands",not set,not set,not set,NULL,0,1
+538,not set,kwirenza,kw,irenza,#NAME?,"to throw behind oneself, get rid of",not set,not set,not set,NULL,0,1
+539,not set,kwirimbisha,kw,irimbisha,#NAME?,to wash and comb oneself,not set,not set,not set,NULL,0,1
+540,not set,kwirinda,kw,irinda,#NAME?,"to beware, be careful of",not set,not set,not set,NULL,0,1
+541,not set,kwiringira,kw,iringira,#NAME?,"to trust, rely on, hope, expect",not set,not set,not set,NULL,0,1
+542,not set,kwirirwa,kw,irirwa,#NAME?,to spend the day,not set,not set,not set,NULL,0,1
+543,not set,kwiriza,kw,iriza,#NAME?,to cause to spend the day,not set,not set,not set,NULL,0,1
+544,not set,kwiroha,kw,iroha,#NAME?,"to rush upon, push",not set,not set,not set,NULL,0,1
+545,not set,kwiruka,kw,iruka,#NAME?,to run,not set,not set,not set,NULL,0,1
+546,not set,kwirukana,kw,irukana,#NAME?,"to chase, run after",not set,not set,not set,NULL,0,1
+547,not set,kwirukanka,kw,irukanka,#NAME?,to run,not set,not set,not set,NULL,0,1
+548,not set,kwisegura,kw,isegura,#NAME?,to lie on pillow,not set,not set,not set,NULL,0,1
+549,not set,kwishima,kw,ishima,#NAME?,"to be happy, glad",not set,not set,not set,NULL,0,1
+550,not set,kwishingana,kw,ishingana,#NAME?,"to insure, be insured",not set,not set,not set,NULL,0,1
+551,not set,kwishisha,kw,ishisha,#NAME?,"to show physical fear, mistrust",not set,not set,not set,NULL,0,1
+552,not set,kwishyanura,kw,ishyanura,#NAME?,to show off,not set,not set,not set,NULL,0,1
+553,not set,kwishyura,kw,ishyura,#NAME?,"to pay, repay debt",not set,not set,not set,NULL,0,1
+554,not set,kwisomera,kw,isomera,#NAME?,to read for oneself,not set,not set,not set,NULL,0,1
+555,not set,kwisukura,kw,isukura,#NAME?,"to wash, cleanse, purify oneself",not set,not set,not set,NULL,0,1
+556,not set,kwisumbura,kw,isumbura,#NAME?,to be higher,not set,not set,not set,NULL,0,1
+557,not set,kwisuzuma,kw,isuzuma,#NAME?,to examine oneself,not set,not set,not set,NULL,0,1
+558,not set,kwita,kw,ita,#NAME?,"to call, name",not set,not set,not set,NULL,0,1
+559,not set,kwitaba,kw,itaba,#NAME?,"to answer when called, respond",not set,not set,not set,NULL,0,1
+560,not set,kwitanga,kw,itanga,#NAME?,"to give oneself, surrender oneself",not set,not set,not set,NULL,0,1
+561,not set,kwitarura,kw,itarura,#NAME?,"to separate oneself, distance oneself",not set,not set,not set,NULL,0,1
+562,not set,kwitega,kw,itega,#NAME?,to wait for,not set,not set,not set,NULL,0,1
+563,not set,kwitegereza,kw,itegereza,#NAME?,"to look at intently, study",not set,not set,not set,NULL,0,1
+564,not set,kwitegura,kw,itegura,#NAME?,to prepare oneself,not set,not set,not set,NULL,0,1
+565,not set,kwitema,kw,itema,#NAME?,to cut oneself,not set,not set,not set,NULL,0,1
+566,not set,kwitonda,kw,itonda,#NAME?,"to be careful, cautious, softly spoken, gentle",not set,not set,not set,NULL,0,1
+567,not set,kwitondera,kw,itondera,#NAME?,"to observe, obey, keep, pay attention to",not set,not set,not set,NULL,0,1
+568,not set,kwitonganya,kw,itonganya,#NAME?,"to fuss, complain, blame oneself",not set,not set,not set,NULL,0,1
+569,not set,kwitotomba,kw,itotomba,#NAME?,to complain,not set,not set,not set,NULL,0,1
+570,not set,kwitoza,kw,itoza,#NAME?,"to exercise, practise",not set,not set,not set,NULL,0,1
+571,not set,kwitsamura,kw,itsamura,#NAME?,to sneeze,not set,not set,not set,NULL,0,1
+572,not set,kwituga,kw,ituga,#NAME?,to put all one's strength into something,not set,not set,not set,NULL,0,1
+573,not set,kwituma,kw,ituma,#NAME?,"to go to the toilet, relieve oneself",not set,not set,not set,NULL,0,1
+574,not set,kwitura,kw,itura,#NAME?,"to repay, put down by oneself",not set,not set,not set,NULL,0,1
+575,not set,kwitwa,kw,itwa,#NAME?,"to be called, named",not set,not set,not set,NULL,0,1
+576,not set,kwitwararika,kw,itwararika,#NAME?,to be concerned about,not set,not set,not set,NULL,0,1
+577,not set,kwivovota,kw,ivovota,#NAME?,to complain verbally,not set,not set,not set,NULL,0,1
+578,not set,kwivumbura,kw,ivumbura,#NAME?,to become upset and leave,not set,not set,not set,NULL,0,1
+579,not set,kwiyaka,kw,iyaka,#NAME?,to deprive oneself of,not set,not set,not set,NULL,0,1
+580,not set,kwiyama,kw,iyama,#NAME?,"to rebuke, warn",not set,not set,not set,NULL,0,1
+581,not set,kwiyamamaza,kw,iyamamaza,#NAME?,"to advertise oneself, campaign",not set,not set,not set,NULL,0,1
+582,not set,kwiyandarika,kw,iyandarika,#NAME?,to be careless in personal appearance,not set,not set,not set,NULL,0,1
+583,not set,kwiyandikisha,kw,iyandikisha,#NAME?,to register oneself,not set,not set,not set,NULL,0,1
+584,not set,kwiyemera,kw,iyemera,#NAME?,"to accept oneself, have self-confidence",not set,not set,not set,NULL,0,1
+585,not set,kwiyereka,kw,iyereka,#NAME?,"to show oneself, exercise, do gym",not set,not set,not set,NULL,0,1
+586,not set,kwiyibuka,kw,iyibuka,#NAME?,to remember oneself,not set,not set,not set,NULL,0,1
+587,not set,kwiyiriza,kw,iyiriza,#NAME?,to cause oneself to spend the day,not set,not set,not set,NULL,0,1
+588,not set,kwiyiriza ubusa,kw,iyiriza ubusa,#NAME?,"to fast, spend the day without food",not set,not set,not set,NULL,0,1
+589,not set,kwiyorosa,kw,iyorosa,#NAME?,to cover oneself in bed,not set,not set,not set,NULL,0,1
+590,not set,kwiyoza,kw,iyoza,#NAME?,to clean oneself,not set,not set,not set,NULL,0,1
+591,not set,kwiyubaha,kw,iyubaha,#NAME?,to respect oneself,not set,not set,not set,NULL,0,1
+592,not set,kwiyubaka,kw,iyubaka,#NAME?,to build oneself,not set,not set,not set,NULL,0,1
+593,not set,kwiyuhagira,kw,iyuhagira,#NAME?,"to wash oneself, shower",not set,not set,not set,NULL,0,1
+594,not set,kwiyumvira,kw,iyumvira,#NAME?,"to think about, be in deep thought",not set,not set,not set,NULL,0,1
+595,not set,kwiyunga,kw,iyunga,#NAME?,to reconcile,not set,not set,not set,NULL,0,1
+596,not set,kwizanira,kw,izanira,#NAME?,to bring for oneself,not set,not set,not set,NULL,0,1
+597,not set,kwizera,kw,izera,#NAME?,"to hope, believe, have faith",not set,not set,not set,NULL,0,1
+598,not set,kwizihiza,kw,izihiza,#NAME?,"to celebrate, cause to rejoice",not set,not set,not set,NULL,0,1
+599,not set,kujabika,ku,jabika,#NAME?,to dip in water,not set,not set,not set,NULL,0,1
+600,not set,kujarajara,ku,jarajara,#NAME?,to go from place to place,not set,not set,not set,NULL,0,1
+601,not set,kujegajega,ku,jegajega,#NAME?,"to shake, move",not set,not set,not set,NULL,0,1
+602,not set,kujijuka,ku,jijuka,#NAME?,"to be informed, knowledgeable",not set,not set,not set,NULL,0,1
+603,not set,kujijura,ku,jijura,#NAME?,"to instruct, enlighten",not set,not set,not set,NULL,0,1
+604,not set,kujijwa,ku,jijwa,#NAME?,"to not know, be ignorant of",not set,not set,not set,NULL,0,1
+605,not set,kujugunya,ku,jugunya,#NAME?,"to throw away, discard",not set,not set,not set,NULL,0,1
+606,not set,kujujubya,ku,jujubya,#NAME?,"to attack, conquer, pester",not set,not set,not set,NULL,0,1
+607,not set,kujurira,ku,jurira,#NAME?,to appeal to a higher court,not set,not set,not set,NULL,0,1
+608,not set,kujya,ku,jya,#NAME?,"to go to, continually",not set,not set,not set,NULL,0,1
+609,not set,kujyana,ku,jyana,#NAME?,"to go together to, take",not set,not set,not set,NULL,0,1
+610,not set,gukabya,gu,kabya,#NAME?,"to exaggerate, be too much",not set,not set,not set,NULL,0,1
+611,not set,gukama,gu,kama,#NAME?,"to milk, dry up, stop bleeding",not set,not set,not set,NULL,0,1
+612,not set,gukambakamba,gu,kambakamba,#NAME?,to crawl (like a baby),not set,not set,not set,NULL,0,1
+613,not set,gukamura,gu,kamura,#NAME?,"to wring out, squeeze juice from",not set,not set,not set,NULL,0,1
+614,not set,gukanda,gu,kanda,#NAME?,to click (on computer),not set,not set,not set,NULL,0,1
+615,not set,gukandagira,gu,kandagira,#NAME?,to tread on,not set,not set,not set,NULL,0,1
+616,not set,gukanga,gu,kanga,#NAME?,"to startle, frighten",not set,not set,not set,NULL,0,1
+617,not set,gukangara,gu,kangara,#NAME?,"to warn, threaten",not set,not set,not set,NULL,0,1
+618,not set,gukangarana,gu,kangarana,#NAME?,to be seized with terror,not set,not set,not set,NULL,0,1
+619,not set,gukangisha,gu,kangisha,#NAME?,"to threaten, intimidate with",not set,not set,not set,NULL,0,1
+620,not set,gukanguka,gu,kanguka,#NAME?,to be awake,not set,not set,not set,NULL,0,1
+621,not set,gukangura,gu,kangura,#NAME?,to awaken someone,not set,not set,not set,NULL,0,1
+622,not set,gukangurwa,gu,kangurwa,#NAME?,to be awoken,not set,not set,not set,NULL,0,1
+623,not set,gukankamira,gu,kankamira,#NAME?,to scold loudly,not set,not set,not set,NULL,0,1
+624,not set,gukanura,gu,kanura,#NAME?,to open one's eyes,not set,not set,not set,NULL,0,1
+625,not set,gukaraba,gu,karaba,#NAME?,to wash one's hands,not set,not set,not set,NULL,0,1
+626,not set,gukarama,gu,karama,#NAME?,to be ready to attack,not set,not set,not set,NULL,0,1
+627,not set,gukaranga,gu,karanga,#NAME?,to fry,not set,not set,not set,NULL,0,1
+628,not set,gukata,gu,kata,#NAME?,"to cut, turn (slang: have sex)",not set,not set,not set,NULL,0,1
+629,not set,gukataza,gu,kataza,#NAME?,"to hurry, go quickly",not set,not set,not set,NULL,0,1
+630,not set,gukayuka,gu,kayuka,#NAME?,"to lose flavour, become bland",not set,not set,not set,NULL,0,1
+631,not set,gukaza,gu,kaza,#NAME?,to tighten,not set,not set,not set,NULL,0,1
+632,not set,gukeba,gu,keba,#NAME?,to cut into pieces,not set,not set,not set,NULL,0,1
+633,not set,gukebaguza,gu,kebaguza,#NAME?,to look all around,not set,not set,not set,NULL,0,1
+634,not set,gukeka,gu,keka,#NAME?,"to suspect, suppose, think",not set,not set,not set,NULL,0,1
+635,not set,gukemwa,gu,kemwa,#NAME?,to be tempted,not set,not set,not set,NULL,0,1
+636,not set,gukena,gu,kena,#NAME?,"to be poor, needy",not set,not set,not set,NULL,0,1
+637,not set,gukenera,gu,kenera,#NAME?,to need,not set,not set,not set,NULL,0,1
+638,not set,gukenga,gu,kenga,#NAME?,"to mistrust, have suspicions about",not set,not set,not set,NULL,0,1
+639,not set,gukenyera,gu,kenyera,#NAME?,to be wrapped around the waist,not set,not set,not set,NULL,0,1
+640,not set,gukenyeza,gu,kenyeza,#NAME?,"to wrap something around one's waist, put on a belt",not set,not set,not set,NULL,0,1
+641,not set,gukerensa,gu,kerensa,#NAME?,"to understate, belittle",not set,not set,not set,NULL,0,1
+642,not set,gukerereza,gu,kerereza,#NAME?,to make late,not set,not set,not set,NULL,0,1
+643,not set,gukererwa,gu,kererwa,#NAME?,to be late,not set,not set,not set,NULL,0,1
+644,not set,gucyesha ,gu,cyesha ,#NAME?,to have because of,not set,not set,not set,NULL,0,1
+645,not set,gukikira,gu,kikira,#NAME?,to take on one's lap,not set,not set,not set,NULL,0,1
+646,not set,gukikiza,gu,kikiza,#NAME?,to surround,not set,not set,not set,NULL,0,1
+647,not set,gukinana,gu,kinana,#NAME?,to play with,not set,not set,not set,NULL,0,1
+648,not set,gukinda,gu,kinda,#NAME?,to rape,not set,not set,not set,NULL,0,1
+649,not set,gukinga,gu,kinga,#NAME?,"to close, shut, lock",not set,not set,not set,NULL,0,1
+650,not set,gukingiriza,gu,kingiriza,#NAME?,"to hide from sight, obscure",not set,not set,not set,NULL,0,1
+651,not set,gukingura,gu,kingura,#NAME?,"to open, unlock",not set,not set,not set,NULL,0,1
+652,not set,gukira,gu,kira,#NAME?,"to get well, be healed, be rich",not set,not set,not set,NULL,0,1
+653,not set,gukiranirwa,gu,kiranirwa,#NAME?,to be wicked,not set,not set,not set,NULL,0,1
+654,not set,gukiranuka,gu,kiranuka,#NAME?,"to be righteous, just",not set,not set,not set,NULL,0,1
+655,not set,gukirigita,gu,kirigita,#NAME?,to tickle,not set,not set,not set,NULL,0,1
+656,not set,gukirigitwa,gu,kirigitwa,#NAME?,to be tickled,not set,not set,not set,NULL,0,1
+657,not set,gukiza,gu,kiza,#NAME?,"to save, heal",not set,not set,not set,NULL,0,1
+658,not set,gukizwa,gu,kizwa,#NAME?,"to be saved, healed",not set,not set,not set,NULL,0,1
+659,not set,gukobwa,gu,kobwa,#NAME?,to have dowry paid on your behalf (as bride),not set,not set,not set,NULL,0,1
+660,not set,gukodesha,gu,kodesha,#NAME?,"to hire, rent",not set,not set,not set,NULL,0,1
+661,not set,gukoloniza,gu,koloniza,#NAME?,to colonize,not set,not set,not set,NULL,0,1
+662,not set,gukoma,gu,koma,#NAME?,"to prevent, hinder, stop",not set,not set,not set,NULL,0,1
+663,not set,gukomanga,gu,komanga,#NAME?,to knock,not set,not set,not set,NULL,0,1
+664,not set,gukomatanya,gu,komatanya,#NAME?,"to group things together, tag",not set,not set,not set,NULL,0,1
+665,not set,gukomera,gu,komera,#NAME?,"to be strong, great",not set,not set,not set,NULL,0,1
+666,not set,gukomereka,gu,komereka,#NAME?,"to be injured, wounded, hurt",not set,not set,not set,NULL,0,1
+667,not set,gukomeza,gu,komeza,#NAME?,"to continue, carry on",not set,not set,not set,NULL,0,1
+668,not set,gukomoka,gu,komoka,#NAME?,"to be descended from, originate from",not set,not set,not set,NULL,0,1
+669,not set,gukomora,gu,komora,#NAME?,to take from the origin,not set,not set,not set,NULL,0,1
+670,not set,gukongeza,gu,kongeza,#NAME?,"to light, set alight, set on fire",not set,not set,not set,NULL,0,1
+671,not set,gukonja,gu,konja,#NAME?,to be cold,not set,not set,not set,NULL,0,1
+672,not set,gukoporora,gu,koporora,#NAME?,to copy (on computer),not set,not set,not set,NULL,0,1
+673,not set,gukora,gu,kora,#NAME?,"to do, work",not set,not set,not set,NULL,0,1
+674,not set,gukorana,gu,korana,#NAME?,to work together,not set,not set,not set,NULL,0,1
+675,not set,gukoranya,gu,koranya,#NAME?,to gather together,not set,not set,not set,NULL,0,1
+676,not set,gukorera,gu,korera,#NAME?,"to work at, work for",not set,not set,not set,NULL,0,1
+677,not set,gukorerwa,gu,korerwa,#NAME?,"to have work done for, have something done against, be committed against",not set,not set,not set,NULL,0,1
+678,not set,gukoresha,gu,koresha,#NAME?,"to use, employ, fix",not set,not set,not set,NULL,0,1
+679,not set,gukoreshwa,gu,koreshwa,#NAME?,"to be used, fixed",not set,not set,not set,NULL,0,1
+680,not set,gukorogoshera,gu,korogoshera,#NAME?,to dig into side of,not set,not set,not set,NULL,0,1
+681,not set,gukorora,gu,korora,#NAME?,to cough,not set,not set,not set,NULL,0,1
+682,not set,gukorwa,gu,korwa,#NAME?,to be done,not set,not set,not set,NULL,0,1
+683,not set,gukoza,gu,koza,#NAME?,"to cause to touch, touch with",not set,not set,not set,NULL,0,1
+684,not set,gukuba,gu,kuba,#NAME?,to multiply,not set,not set,not set,NULL,0,1
+685,not set,gukubagana,gu,kubagana,#NAME?,"to mess around, cause problems",not set,not set,not set,NULL,0,1
+686,not set,gukubita,gu,kubita,#NAME?,"to beat, hit, strike",not set,not set,not set,NULL,0,1
+687,not set,gukubura,gu,kubura,#NAME?,to sweep,not set,not set,not set,NULL,0,1
+688,not set,gukuka,gu,kuka,#NAME?,to clean out the place where animals sleep,not set,not set,not set,NULL,0,1
+689,not set,gukumbura,gu,kumbura,#NAME?,"to miss, be lonesome for",not set,not set,not set,NULL,0,1
+690,not set,gukumira,gu,kumira,#NAME?,"to prevent, suppress, limit",not set,not set,not set,NULL,0,1
+691,not set,gukuna,gu,kuna,#NAME?,to elongate,not set,not set,not set,NULL,0,1
+692,not set,gukuna imishino,gu,kuna imishino,#NAME?,to elongate a woman's labia,not set,not set,not set,NULL,0,1
+693,not set,gukunda,gu,kunda,#NAME?,"to like, love",not set,not set,not set,NULL,0,1
+694,not set,gukunda urumamo,gu,kunda urumamo,#NAME?,to pretend to love,not set,not set,not set,NULL,0,1
+695,not set,gukundana,gu,kundana,#NAME?,to love each other,not set,not set,not set,NULL,0,1
+696,not set,gukundira,gu,kundira,#NAME?,"to allow, like for",not set,not set,not set,NULL,0,1
+697,not set,gukundwa,gu,kundwa,#NAME?,"to be liked, loved",not set,not set,not set,NULL,0,1
+698,not set,gukundwakaza,gu,kundwakaza,#NAME?,to prefer one spouse over others,not set,not set,not set,NULL,0,1
+699,not set,gukungahaza,gu,kungahaza,#NAME?,"to enrich, satisfy, fill",not set,not set,not set,NULL,0,1
+700,not set,gukunguta,gu,kunguta,#NAME?,to shake something to clean it (e.g. rug),not set,not set,not set,NULL,0,1
+701,not set,gukunkumura,gu,kunkumura,#NAME?,to shake something to clean it (e.g. rug),not set,not set,not set,NULL,0,1
+702,not set,gukura,gu,kura,#NAME?,to grow up,not set,not set,not set,NULL,0,1
+703,not set,gukuramo inda,gu,kuramo inda,kuyemo,"to have an abortion, terminate pregnancy, miscarry, have miscarriage",not set,not set,not set,NULL,0,1
+704,not set,gukurikira,gu,kurikira,#NAME?,to follow,not set,not set,not set,NULL,0,1
+705,not set,gukuricyirwa,gu,kuricyirwa,#NAME?,to be followed,not set,not set,not set,NULL,0,1
+706,not set,gukurikiza,gu,kurikiza,#NAME?,to apply,not set,not set,not set,NULL,0,1
+707,not set,gukurubana,gu,kurubana,#NAME?,to drag along,not set,not set,not set,NULL,0,1
+708,not set,gukurura,gu,kurura,#NAME?,"to pull, draw, drag",not set,not set,not set,NULL,0,1
+709,not set,gukuyakuya,gu,kuyakuya,#NAME?,to care for lovingly,not set,not set,not set,NULL,0,1
+710,not set,gukwa,gu,kwa,koye,to pay dowry,not set,not set,not set,NULL,0,1
+711,not set,gukwerera,gu,kwerera,#NAME?,to be middle aged,not set,not set,not set,NULL,0,1
+712,not set,gukweta,gu,kweta,#NAME?,"to wear something on one's feet, put on shoes",not set,not set,not set,NULL,0,1
+713,not set,gukwetura,gu,kwetura,#NAME?,to take off sandals or shoes,not set,not set,not set,NULL,0,1
+714,not set,gukwira,gu,kwira,#NAME?,"to fit, be fitting",not set,not set,not set,NULL,0,1
+715,not set,kumanika,ku,manika,#NAME?,"to hang up, place above",not set,not set,not set,NULL,0,1
+716,not set,kumanuka,ku,manuka,#NAME?,to descend,not set,not set,not set,NULL,0,1
+717,not set,kumanura,ku,manura,#NAME?,"to take down, lower",not set,not set,not set,NULL,0,1
+718,not set,kumanyagura,ku,manyagura,#NAME?,"to smash, break into pieces",not set,not set,not set,NULL,0,1
+719,not set,kumara,ku,mara,#NAME?,"to spend, stay",not set,not set,not set,NULL,0,1
+720,not set,kumena,ku,mena,#NAME?,"to break, spill, empty",not set,not set,not set,NULL,0,1
+721,not set,kumeneka,ku,meneka,#NAME?,"to be broken, spilled, emptied",not set,not set,not set,NULL,0,1
+722,not set,kumenya,ku,menya,#NAME?,to know,not set,not set,not set,NULL,0,1
+723,not set,kumenyeka,ku,menyeka,#NAME?,to be familiar,not set,not set,not set,NULL,0,1
+724,not set,kumenyekana,ku,menyekana,#NAME?,"to be known, become known",not set,not set,not set,NULL,0,1
+725,not set,kumenyekanisha,ku,menyekanisha,#NAME?,"to make known, publish, announce",not set,not set,not set,NULL,0,1
+726,not set,kumenyera,ku,menyera,#NAME?,"to be familiar with, accustomed to",not set,not set,not set,NULL,0,1
+727,not set,kumenyetsa,ku,menyetsa,#NAME?,to cause to be familiar,not set,not set,not set,NULL,0,1
+728,not set,kumera,ku,mera,#NAME?,"to feel, be in a state of",not set,not set,not set,NULL,0,1
+729,not set,kumesa,ku,mesa,#NAME?,to wash clothes,not set,not set,not set,NULL,0,1
+730,not set,kuminina,ku,minina,#NAME?,"to strain, filter",not set,not set,not set,NULL,0,1
+731,not set,kumira,ku,mira,#NAME?,to swallow,not set,not set,not set,NULL,0,1
+732,not set,kumirwa,ku,mirwa,#NAME?,"to be swallowed, underwater",not set,not set,not set,NULL,0,1
+733,not set,kumoka,ku,moka,#NAME?,to bark,not set,not set,not set,NULL,0,1
+734,not set,kumurika,ku,murika,#NAME?,"to shine, enlighten, present, show",not set,not set,not set,NULL,0,1
+735,not set,kumurikirwa,ku,murikirwa,#NAME?,"to be illuminated, enlightened",not set,not set,not set,NULL,0,1
+736,not set,kumwenyura,ku,mwenyura,#NAME?,to smile,not set,not set,not set,NULL,0,1
+737,not set,kunagana,ku,nagana,#NAME?,to be hanging,not set,not set,not set,NULL,0,1
+738,not set,kunagura,ku,nagura,#NAME?,to sharpen,not set,not set,not set,NULL,0,1
+739,not set,kunamba,ku,namba,#NAME?,"to struggle, have a hard life",not set,not set,not set,NULL,0,1
+740,not set,kunangirwa,ku,nangirwa,#NAME?,"to be hard of heart, hard to untie",not set,not set,not set,NULL,0,1
+741,not set,kunanira,ku,nanira,#NAME?,to fail,not set,not set,not set,NULL,0,1
+742,not set,kunanirwa,ku,nanirwa,#NAME?,"to be tired, exhausted, incapable",not set,not set,not set,NULL,0,1
+743,not set,kunebwa,ku,nebwa,#NAME?,to be lazy,not set,not set,not set,NULL,0,1
+744,not set,kunegura,ku,negura,#NAME?,to criticise someone's attire in front of others,not set,not set,not set,NULL,0,1
+745,not set,kunesha,ku,nesha,#NAME?,"to triumph, conquer",not set,not set,not set,NULL,0,1
+746,not set,kunetesha,ku,netesha,#NAME?,to make wet,not set,not set,not set,NULL,0,1
+747,not set,kunezereza,ku,nezereza,#NAME?,"to please someone, make someone happy",not set,not set,not set,NULL,0,1
+748,not set,kunezerwa,ku,nezerwa,#NAME?,"to be happy, pleased, joyful",not set,not set,not set,NULL,0,1
+749,not set,kunezeza,ku,nezeza,nejeje,to please,not set,not set,not set,NULL,0,1
+750,not set,kungana,ku,ngana,#NAME?,to be equal,not set,not set,not set,NULL,0,1
+751,not set,kunganya,ku,nganya,#NAME?,"to draw, equalize (in a game)",not set,not set,not set,NULL,0,1
+752,not set,kuniga,ku,niga,#NAME?,"to choke, tie neck of sack",not set,not set,not set,NULL,0,1
+753,not set,kunnya,ku,nnya,neye,to defecate,not set,not set,not set,NULL,0,1
+754,not set,kunogora,ku,nogora,#NAME?,to gouge,not set,not set,not set,NULL,0,1
+755,not set,kunoza,ku,noza,#NAME?,"to complete, finish, be smooth",not set,not set,not set,NULL,0,1
+756,not set,kunuka,ku,nuka,#NAME?,to smell bad,not set,not set,not set,NULL,0,1
+757,not set,kunyaga,ku,nyaga,#NAME?,to take by force,not set,not set,not set,NULL,0,1
+758,not set,kunyagira,ku,nyagira,#NAME?,to rain on,not set,not set,not set,NULL,0,1
+759,not set,kunyagirwa,ku,nyagirwa,#NAME?,"to be rained on, get wet",not set,not set,not set,NULL,0,1
+760,not set,kunyara,ku,nyara,#NAME?,"to urinate (slang: piss, pee)",not set,not set,not set,NULL,0,1
+761,not set,kunyaza,ku,nyaza,#NAME?,to cause to urinate,not set,not set,not set,NULL,0,1
+762,not set,kunyazwa,ku,nyazwa,#NAME?,to be caused to urinate,not set,not set,not set,NULL,0,1
+763,not set,kunyeganyega,ku,nyeganyega,#NAME?,"to be shaking, trembling",not set,not set,not set,NULL,0,1
+764,not set,kunyobwa,ku,nyobwa,#NAME?,"to be drunk, consumed",not set,not set,not set,NULL,0,1
+765,not set,kunyuguza,ku,nyuguza,#NAME?,to rinse,not set,not set,not set,NULL,0,1
+766,not set,kunyura,ku,nyura,#NAME?,"to pass, go via, go through",not set,not set,not set,NULL,0,1
+767,not set,kunywa,ku,nywa,nyoye,to drink,not set,not set,not set,NULL,0,1
+768,not set,kunywana,ku,nywana,#NAME?,to drink together,not set,not set,not set,NULL,0,1
+769,not set,koga,k,oga,#NAME?,"to swim, bathe",not set,not set,not set,NULL,0,1
+770,not set,kogeza,k,ogeza,#NAME?,"to spread, publish, make known",not set,not set,not set,NULL,0,1
+771,not set,kogosha,k,ogosha,#NAME?,to cut hair or beard or wool,not set,not set,not set,NULL,0,1
+772,not set,koherereza,k,oherereza,#NAME?,to send message to,not set,not set,not set,NULL,0,1
+773,not set,kohereza,k,ohereza,#NAME?,"to send something or someone, message",not set,not set,not set,NULL,0,1
+774,not set,komeka,k,omeka,#NAME?,"to apply, attach, paste (on computer)",not set,not set,not set,NULL,0,1
+775,not set,komoka,k,omoka,#NAME?,"to set sail, leave by boat, cross a body of water",not set,not set,not set,NULL,0,1
+776,not set,komokera,k,omokera,#NAME?,to arrive by boat,not set,not set,not set,NULL,0,1
+777,not set,komongana,k,omongana,#NAME?,"to wander, stray",not set,not set,not set,NULL,0,1
+778,not set,komora,k,omora,#NAME?,to treat wounds,not set,not set,not set,NULL,0,1
+779,not set,komoza,k,omoza,#NAME?,to cause to treat wounds,not set,not set,not set,NULL,0,1
+780,not set,kongera,k,ongera,#NAME?,"to add, repeat, do again",not set,not set,not set,NULL,0,1
+781,not set,kongera kugerageza,k,ongera kugerageza,#NAME?,"to try again, retry",not set,not set,not set,NULL,0,1
+782,not set,kongorera,k,ongorera,#NAME?,to whisper,not set,not set,not set,NULL,0,1
+783,not set,konka,k,onka,#NAME?,to be nursing,not set,not set,not set,NULL,0,1
+784,not set,konona,k,onona,#NAME?,"to damage, spoil",not set,not set,not set,NULL,0,1
+785,not set,kononekara,k,ononekara,#NAME?,"to be damaged, spoiled",not set,not set,not set,NULL,0,1
+786,not set,konsa,k,onsa,#NAME?,"to nurse, breastfeed",not set,not set,not set,NULL,0,1
+787,not set,konswa,k,onswa,#NAME?,"to be nursed, breastfed",not set,not set,not set,NULL,0,1
+788,not set,koroha,k,oroha,#NAME?,"to be easy, simple, soft",not set,not set,not set,NULL,0,1
+789,not set,koroherwa,k,oroherwa,#NAME?,"to be better after illness, improved physically",not set,not set,not set,NULL,0,1
+790,not set,korora,k,orora,#NAME?,to keep or raise livestock,not set,not set,not set,NULL,0,1
+791,not set,kororoka,k,ororoka,#NAME?,"to reproduce, breed, multiply, increase in number",not set,not set,not set,NULL,0,1
+792,not set,koshya,k,oshya,#NAME?,"to tempt, influence badly",not set,not set,not set,NULL,0,1
+793,not set,koshyoshya,k,oshyoshya,#NAME?,"to lure someone, seek someone to harm them",not set,not set,not set,NULL,0,1
+794,not set,kota,k,ota,#NAME?,to warm oneself by fire,not set,not set,not set,NULL,0,1
+795,not set,kotsa,k,otsa,#NAME?,"to burn, bake, roast",not set,not set,not set,NULL,0,1
+796,not set,koza,k,oza,#NAME?,"to clean, wash",not set,not set,not set,NULL,0,1
+797,not set,gupakira,gu,pakira,#NAME?,"to pack, load",not set,not set,not set,NULL,0,1
+798,not set,gupakurura,gu,pakurura,#NAME?,"to unpack, unload",not set,not set,not set,NULL,0,1
+799,not set,guperereza,gu,perereza,#NAME?,"to oversee, supervise",not set,not set,not set,NULL,0,1
+800,not set,gupfa,gu,pfa,pfuye,to die,not set,not set,not set,NULL,0,1
+801,not set,gupfakara,gu,pfakara,#NAME?,to become widowed,not set,not set,not set,NULL,0,1
+802,not set,gupfuka,gu,pfuka,#NAME?,"to cover, wrap",not set,not set,not set,NULL,0,1
+803,not set,gupfukama,gu,pfukama,#NAME?,to kneel,not set,not set,not set,NULL,0,1
+804,not set,gupfumuka,gu,pfumuka,#NAME?,to get hole (e.g. bucket),not set,not set,not set,NULL,0,1
+805,not set,gupfumura,gu,pfumura,#NAME?,to make hole in (e.g. bucket),not set,not set,not set,NULL,0,1
+806,not set,gupfunda,gu,pfunda,#NAME?,"to become more crowded, more full",not set,not set,not set,NULL,0,1
+807,not set,gupfundika,gu,pfundika,#NAME?,"to tie, make knot",not set,not set,not set,NULL,0,1
+808,not set,gupfundikanya,gu,pfundikanya,#NAME?,to tie in knots,not set,not set,not set,NULL,0,1
+809,not set,gupfundikira,gu,pfundikira,#NAME?,"to close, seal, put lid on",not set,not set,not set,NULL,0,1
+810,not set,gupfundura,gu,pfundura,#NAME?,"to open, untie",not set,not set,not set,NULL,0,1
+811,not set,gupfunya,gu,pfunya,#NAME?,to wrap up,not set,not set,not set,NULL,0,1
+812,not set,gupfura,gu,pfura,#NAME?,to pluck (feathers or hairs),not set,not set,not set,NULL,0,1
+813,not set,gupfurika,gu,pfurika,#NAME?,to hide,not set,not set,not set,NULL,0,1
+814,not set,gupfusha ubusa,gu,pfusha ubusa,#NAME?,"to waste, use up for nothing",not set,not set,not set,NULL,0,1
+815,not set,gupima,gu,pima,#NAME?,"to measure, weigh, examine",not set,not set,not set,NULL,0,1
+816,not set,gupimisha,gu,pimisha,#NAME?,to cause to measure,not set,not set,not set,NULL,0,1
+817,not set,gupyinagiza,gu,pyinagiza,#NAME?,to oppress,not set,not set,not set,NULL,0,1
+818,not set,gupyipyinyura,gu,pyipyinyura,#NAME?,to rub,not set,not set,not set,NULL,0,1
+819,not set,kuraba,ku,raba,#NAME?,"to faint, wilt, dry up (plant)",not set,not set,not set,NULL,0,1
+820,not set,kurabagirana,ku,rabagirana,#NAME?,"to shine, reflect light",not set,not set,not set,NULL,0,1
+821,not set,kurabukwa,ku,rabukwa,#NAME?,"to catch glimpse of, suddenly see",not set,not set,not set,NULL,0,1
+822,not set,kuraga,ku,raga,#NAME?,to give inheritance,not set,not set,not set,NULL,0,1
+823,not set,kuragira,ku,ragira,#NAME?,"to herd animals, shepherd to pasture",not set,not set,not set,NULL,0,1
+824,not set,kuragura,ku,ragura,#NAME?,"to practise divination, fortune tell",not set,not set,not set,NULL,0,1
+825,not set,kuragwa,ku,ragwa,#NAME?,to inherit,not set,not set,not set,NULL,0,1
+826,not set,kurahira,ku,rahira,#NAME?,"to vow, swear",not set,not set,not set,NULL,0,1
+827,not set,kurakara,ku,rakara,#NAME?,to be angry,not set,not set,not set,NULL,0,1
+828,not set,kuramba,ku,ramba,#NAME?,"to live long, last long",not set,not set,not set,NULL,0,1
+829,not set,kurambarara,ku,rambarara,#NAME?,"to lie down, stretch out",not set,not set,not set,NULL,0,1
+830,not set,kurambika,ku,rambika,#NAME?,"to put down, put on, spread out",not set,not set,not set,NULL,0,1
+831,not set,kurambura,ku,rambura,#NAME?,"to stretch out, be lengthy, extended",not set,not set,not set,NULL,0,1
+832,not set,kuramuka,ku,ramuka,#NAME?,to spend the night,not set,not set,not set,NULL,0,1
+833,not set,kuramukwa,ku,ramukwa,#NAME?,"to have labour pains, be ready to deliver",not set,not set,not set,NULL,0,1
+834,not set,kuramutsa,ku,ramutsa,#NAME?,to greet,not set,not set,not set,NULL,0,1
+835,not set,kuramya,ku,ramya,#NAME?,"to worship, adore, honour",not set,not set,not set,NULL,0,1
+836,not set,kurandata,ku,randata,#NAME?,to lead by the hand,not set,not set,not set,NULL,0,1
+837,not set,kurandura,ku,randura,#NAME?,"to pull out, uproot",not set,not set,not set,NULL,0,1
+838,not set,kuranga,ku,ranga,#NAME?,"to make known, publish, announce",not set,not set,not set,NULL,0,1
+839,not set,kurangamira,ku,rangamira,#NAME?,"to stare at, seek after",not set,not set,not set,NULL,0,1
+840,not set,kurangara,ku,rangara,#NAME?,"to not pay attention, be distracted",not set,not set,not set,NULL,0,1
+841,not set,kurangarana,ku,rangarana,#NAME?,"to neglect somebody, ignore",not set,not set,not set,NULL,0,1
+842,not set,kurangira,ku,rangira,#NAME?,"to be finished, completed",not set,not set,not set,NULL,0,1
+843,not set,kurangiza,ku,rangiza,#NAME?,"to finish, complete",not set,not set,not set,NULL,0,1
+844,not set,kurangurura,ku,rangurura,#NAME?,"to call from a distance, shout, raise one's voice",not set,not set,not set,NULL,0,1
+845,not set,kurara,ku,rara,#NAME?,to spend the night,not set,not set,not set,NULL,0,1
+846,not set,kurarama,ku,rarama,#NAME?,"to look up, raise one's eyes",not set,not set,not set,NULL,0,1
+847,not set,kuraranganya,ku,raranganya,#NAME?,to look around,not set,not set,not set,NULL,0,1
+848,not set,kurarika,ku,rarika,#NAME?,"to invite, inform",not set,not set,not set,NULL,0,1
+849,not set,kurarikira,ku,rarikira,#NAME?,"to strongly desire, lust, covet",not set,not set,not set,NULL,0,1
+850,not set,kuraruka,ku,raruka,#NAME?,"to leave home, be a vagabond",not set,not set,not set,NULL,0,1
+851,not set,kurasa,ku,rasa,#NAME?,"to shoot with arrow or gun, rise (as sun)",not set,not set,not set,NULL,0,1
+852,not set,kurasira,ku,rasira,#NAME?,"to shoot at, rise at",not set,not set,not set,NULL,0,1
+853,not set,kurata,ku,rata,#NAME?,to praise,not set,not set,not set,NULL,0,1
+854,not set,kureba,ku,reba,#NAME?,"to watch, look at, see, view",not set,not set,not set,NULL,0,1
+855,not set,kurebareba,ku,rebareba,#NAME?,to look everywhere,not set,not set,not set,NULL,0,1
+856,not set,kurega,ku,rega,#NAME?,"to accuse, blame",not set,not set,not set,NULL,0,1
+857,not set,kureka,ku,reka,#NAME?,"to allow, let, cancel",not set,not set,not set,NULL,0,1
+858,not set,kurekera,ku,rekera,#NAME?,to stop,not set,not set,not set,NULL,0,1
+859,not set,kurekura,ku,rekura,#NAME?,to release,not set,not set,not set,NULL,0,1
+860,not set,kurema,ku,rema,#NAME?,to create,not set,not set,not set,NULL,0,1
+861,not set,kuremba,ku,remba,#NAME?,"to be seriously ill, injured, very sick",not set,not set,not set,NULL,0,1
+862,not set,kurembuza,ku,rembuza,#NAME?,to signal to come,not set,not set,not set,NULL,0,1
+863,not set,kurembya,ku,rembya,#NAME?,"to push someone to the limit of endurance, cause to suffer greatly",not set,not set,not set,NULL,0,1
+864,not set,kuremera,ku,remera,#NAME?,to be heavy,not set,not set,not set,NULL,0,1
+865,not set,kuremerwa,ku,remerwa,#NAME?,to be heavy laden,not set,not set,not set,NULL,0,1
+866,not set,kurenga,ku,renga,#NAME?,"to pass, surpass, disappear behind, set",not set,not set,not set,NULL,0,1
+867,not set,kurenganura,ku,renganura,#NAME?,to give justice to one who has been treated injustly,not set,not set,not set,NULL,0,1
+868,not set,kurenganya,ku,renganya,#NAME?,"to treat unjustly, persecute",not set,not set,not set,NULL,0,1
+869,not set,kurengera,ku,rengera,#NAME?,"to pass at, set at",not set,not set,not set,NULL,0,1
+870,not set,kurengerwa,ku,rengerwa,#NAME?,to be submerged,not set,not set,not set,NULL,0,1
+871,not set,kurengurana,ku,rengurana,#NAME?,to ridicule,not set,not set,not set,NULL,0,1
+872,not set,kurera,ku,rera,#NAME?,"to raise child, rear",not set,not set,not set,NULL,0,1
+873,not set,kureshya,ku,reshya,#NAME?,"to influence, woo",not set,not set,not set,NULL,0,1
+874,not set,kuribata,ku,ribata,#NAME?,to trample on,not set,not set,not set,NULL,0,1
+875,not set,kuribwa,ku,ribwa,riwe,to be eaten,not set,not set,not set,NULL,0,1
+876,not set,kuriduka,ku,riduka,#NAME?,to fall in ruins,not set,not set,not set,NULL,0,1
+877,not set,kuriganya,ku,riganya,#NAME?,"to cheat, trick, lie",not set,not set,not set,NULL,0,1
+878,not set,kurigita,ku,rigita,#NAME?,"to disappear into ground, not be findable",not set,not set,not set,NULL,0,1
+879,not set,kurimba,ku,rimba,#NAME?,"to dress beautifully, wear ornaments",not set,not set,not set,NULL,0,1
+880,not set,kurimbuka,ku,rimbuka,#NAME?,"to perish, go to hell, be uprooted",not set,not set,not set,NULL,0,1
+881,not set,kurimbura,ku,rimbura,#NAME?,"to destroy, condemn to hell, uproot",not set,not set,not set,NULL,0,1
+882,not set,kurinda,ku,rinda,#NAME?,"to wait for, watch, guard, protect",not set,not set,not set,NULL,0,1
+883,not set,kurindira,ku,rindira,#NAME?,"to wait for, expect",not set,not set,not set,NULL,0,1
+884,not set,kuringanira,ku,ringanira,#NAME?,"to be equal, even, flat",not set,not set,not set,NULL,0,1
+885,not set,kuringaniza,ku,ringaniza,#NAME?,"to make equal, flat, even, put in order",not set,not set,not set,NULL,0,1
+886,not set,kurira,ku,rira,#NAME?,"to cry, weep",not set,not set,not set,NULL,0,1
+887,not set,kuririmba,ku,ririmba,#NAME?,to sing,not set,not set,not set,NULL,0,1
+888,not set,kurisha,ku,risha,#NAME?,"to pasture, eat with (a utensil)",not set,not set,not set,NULL,0,1
+889,not set,kuroba,ku,roba,#NAME?,to fish,not set,not set,not set,NULL,0,1
+890,not set,kurobanura,ku,robanura,#NAME?,"to choose, select, set aside, ordain",not set,not set,not set,NULL,0,1
+891,not set,kuroga,ku,roga,#NAME?,to bewitch,not set,not set,not set,NULL,0,1
+892,not set,kurogoya,ku,rogoya,#NAME?,to interrupt,not set,not set,not set,NULL,0,1
+893,not set,kuroha,ku,roha,#NAME?,to throw into water,not set,not set,not set,NULL,0,1
+894,not set,kurohama,ku,rohama,#NAME?,"to drown, sink",not set,not set,not set,NULL,0,1
+895,not set,kurohora,ku,rohora,#NAME?,to pull from water or fire,not set,not set,not set,NULL,0,1
+896,not set,kurokoka,ku,rokoka,#NAME?,"to be saved, delivered",not set,not set,not set,NULL,0,1
+897,not set,kurokora,ku,rokora,#NAME?,to save from danger or death,not set,not set,not set,NULL,0,1
+898,not set,kurombereza,ku,rombereza,#NAME?,to go on further,not set,not set,not set,NULL,0,1
+899,not set,kurondereza,ku,rondereza,#NAME?,"to be economical, frugal",not set,not set,not set,NULL,0,1
+900,not set,kurondogora,ku,rondogora,#NAME?,to talk too much,not set,not set,not set,NULL,0,1
+901,not set,kurondora,ku,rondora,#NAME?,"to exhaust, describe, relate in detail",not set,not set,not set,NULL,0,1
+902,not set,kuronga,ku,ronga,#NAME?,to wash vegetables,not set,not set,not set,NULL,0,1
+903,not set,kurongora,ku,rongora,#NAME?,"to marry, have sex",not set,not set,not set,NULL,0,1
+904,not set,kurongorwa,ku,rongorwa,#NAME?,"to be married, have sex",not set,not set,not set,NULL,0,1
+905,not set,kuronka,ku,ronka,#NAME?,to receive something special or undeserved,not set,not set,not set,NULL,0,1
+906,not set,kurorera,ku,rorera,#NAME?,to stop doing something,not set,not set,not set,NULL,0,1
+907,not set,kuroreza,ku,roreza,#NAME?,to taste,not set,not set,not set,NULL,0,1
+908,not set,kurota,ku,rota,#NAME?,to dream,not set,not set,not set,NULL,0,1
+909,not set,kurubira,ku,rubira,#NAME?,"to become angry, violent",not set,not set,not set,NULL,0,1
+910,not set,kuruha,ku,ruha,#NAME?,to be tired,not set,not set,not set,NULL,0,1
+911,not set,kuruhuka,ku,ruhuka,#NAME?,"to have rest, take break",not set,not set,not set,NULL,0,1
+912,not set,kuruka,ku,ruka,#NAME?,"to vomit, erupt",not set,not set,not set,NULL,0,1
+913,not set,kuruma,ku,ruma,#NAME?,to bite,not set,not set,not set,NULL,0,1
+914,not set,kurumbuka,ku,rumbuka,#NAME?,"to produce much fruit or offspring, be fertile",not set,not set,not set,NULL,0,1
+915,not set,kurumbura,ku,rumbura,#NAME?,"to open, blossom (as flower)",not set,not set,not set,NULL,0,1
+916,not set,kurunda,ku,runda,#NAME?,"to pile together, heap",not set,not set,not set,NULL,0,1
+917,not set,kurundarunda,ku,rundarunda,#NAME?,"to pile carefully, finish",not set,not set,not set,NULL,0,1
+918,not set,kurunguruka,ku,runguruka,#NAME?,to lean over to look at,not set,not set,not set,NULL,0,1
+919,not set,kurura,ku,rura,#NAME?,to be bitter,not set,not set,not set,NULL,0,1
+920,not set,kurusha,ku,rusha,#NAME?,"to be greater than, more than, surpass",not set,not set,not set,NULL,0,1
+921,not set,kurushiriza,ku,rushiriza,#NAME?,"to surpass, do more",not set,not set,not set,NULL,0,1
+922,not set,kurushya,ku,rushya,#NAME?,"to annoy, trouble, be difficult",not set,not set,not set,NULL,0,1
+923,not set,kuruta,ku,ruta,#NAME?,to have more than,not set,not set,not set,NULL,0,1
+924,not set,kurwana,ku,rwana,#NAME?,to fight,not set,not set,not set,NULL,0,1
+925,not set,kurwanya,ku,rwanya,#NAME?,to fight against,not set,not set,not set,NULL,0,1
+926,not set,kurwara,ku,rwara,#NAME?,"to be sick, ill, sore",not set,not set,not set,NULL,0,1
+927,not set,kurya,ku,rya,#NAME?,"to eat, bite",not set,not set,not set,NULL,0,1
+928,not set,kuryagagura,ku,ryagagura,#NAME?,"to nibble, eat a little of everything",not set,not set,not set,NULL,0,1
+929,not set,kuryama,ku,ryama,#NAME?,"to lie down, go to bed",not set,not set,not set,NULL,0,1
+930,not set,kuryamana,ku,ryamana,#NAME?,"to lie together, have sex",not set,not set,not set,NULL,0,1
+931,not set,kuryana,ku,ryana,#NAME?,to eat together,not set,not set,not set,NULL,0,1
+932,not set,kuryanisha,ku,ryanisha,#NAME?,"to bite with, stir up trouble",not set,not set,not set,NULL,0,1
+933,not set,kuryarya,ku,ryarya,#NAME?,"to act hypocritically, be a hypocrite",not set,not set,not set,NULL,0,1
+934,not set,kuryaryata,ku,ryaryata,#NAME?,to itch,not set,not set,not set,NULL,0,1
+935,not set,kuryoha,ku,ryoha,#NAME?,"to be delicious, excellent",not set,not set,not set,NULL,0,1
+936,not set,kuryoza,ku,ryoza,#NAME?,"to make pay the penalty, penalise",not set,not set,not set,NULL,0,1
+937,not set,gusaba,gu,saba,#NAME?,"to beg, request, ask for something",not set,not set,not set,NULL,0,1
+938,not set,gusabana,gu,sabana,#NAME?,to confide in,not set,not set,not set,NULL,0,1
+939,not set,gusabiriza,gu,sabiriza,#NAME?,to beg persistently,not set,not set,not set,NULL,0,1
+940,not set,gusaduka,gu,saduka,#NAME?,to crack,not set,not set,not set,NULL,0,1
+941,not set,gusaga,gu,saga,#NAME?,"to overflow, be more than, be surplus",not set,not set,not set,NULL,0,1
+942,not set,gusagamba,gu,sagamba,#NAME?,to grow luxuriously,not set,not set,not set,NULL,0,1
+943,not set,gusaguka,gu,saguka,#NAME?,"to be left over, remain",not set,not set,not set,NULL,0,1
+944,not set,gusahura,gu,sahura,#NAME?,"to pillage, plunder",not set,not set,not set,NULL,0,1
+945,not set,gusaka,gu,saka,#NAME?,"to search, check",not set,not set,not set,NULL,0,1
+946,not set,gusakabaka,gu,sakabaka,#NAME?,"to shout, cry out",not set,not set,not set,NULL,0,1
+947,not set,gusakara,gu,sakara,#NAME?,"to roof, build roof",not set,not set,not set,NULL,0,1
+948,not set,gusakuza,gu,sakuza,#NAME?,"to shout, cry aloud, make noise",not set,not set,not set,NULL,0,1
+949,not set,gusama,gu,sama,#NAME?,to catch in the hand,not set,not set,not set,NULL,0,1
+950,not set,gusamba,gu,samba,#NAME?,"to be dying, at point of death",not set,not set,not set,NULL,0,1
+951,not set,gusambana,gu,sambana,#NAME?,"to commit adultery, fornicate",not set,not set,not set,NULL,0,1
+952,not set,gusambura,gu,sambura,#NAME?,"to take off roof, reveal publically",not set,not set,not set,NULL,0,1
+953,not set,gusandara,gu,sandara,#NAME?,"to scatter, be scattered",not set,not set,not set,NULL,0,1
+954,not set,gusandaza,gu,sandaza,#NAME?,to cause to scatter,not set,not set,not set,NULL,0,1
+955,not set,gusanga,gu,sanga,#NAME?,"to join with (people), encounter others",not set,not set,not set,NULL,0,1
+956,not set,gusanganira,gu,sanganira,#NAME?,to go to meet,not set,not set,not set,NULL,0,1
+957,not set,gusangira,gu,sangira,#NAME?,"to eat together, drink together, share",not set,not set,not set,NULL,0,1
+958,not set,gusangwa,gu,sangwa,#NAME?,to be joined with (people),not set,not set,not set,NULL,0,1
+959,not set,gusara,gu,sara,#NAME?,"to be crazy, mad, lose one's mind",not set,not set,not set,NULL,0,1
+960,not set,gusarura,gu,sarura,#NAME?,to harvest,not set,not set,not set,NULL,0,1
+961,not set,gusasa,gu,sasa,shashe,"to make bed, prepare room",not set,not set,not set,NULL,0,1
+962,not set,gusatura,gu,satura,#NAME?,to cut lengthwise,not set,not set,not set,NULL,0,1
+963,not set,gusaya,gu,saya,#NAME?,to get stuck in mud,not set,not set,not set,NULL,0,1
+964,not set,gusaza,gu,saza,shaje,"to grow old, be old",not set,not set,not set,NULL,0,1
+965,not set,gusebwa,gu,sebwa,#NAME?,"to be ground, powdered",not set,not set,not set,NULL,0,1
+966,not set,gusebya,gu,sebya,#NAME?,"to speak evil of, mock, make fun of",not set,not set,not set,NULL,0,1
+967,not set,gusega,gu,sega,#NAME?,to climb tree or pole,not set,not set,not set,NULL,0,1
+968,not set,guseka,gu,seka,#NAME?,"to smile, laugh",not set,not set,not set,NULL,0,1
+969,not set,gusekura,gu,sekura,#NAME?,"to grind in mortar, bump into",not set,not set,not set,NULL,0,1
+970,not set,gusembura,gu,sembura,#NAME?,to leaven,not set,not set,not set,NULL,0,1
+971,not set,gusemura,gu,semura,#NAME?,to translate,not set,not set,not set,NULL,0,1
+972,not set,gusenda,gu,senda,#NAME?,to publically send away one's wife,not set,not set,not set,NULL,0,1
+973,not set,gusendera,gu,sendera,#NAME?,to be filled to the brim,not set,not set,not set,NULL,0,1
+974,not set,gusenga,gu,senga,#NAME?,"to pray, worship",not set,not set,not set,NULL,0,1
+975,not set,gusengana,gu,sengana,#NAME?,"to pray together, worship together",not set,not set,not set,NULL,0,1
+976,not set,gusengera,gu,sengera,#NAME?,"to pray at, worship at",not set,not set,not set,NULL,0,1
+977,not set,gusenya,gu,senya,shenye,to gather firewood,not set,not set,not set,NULL,0,1
+978,not set,gusenyagurana,gu,senyagurana,#NAME?,to fall into ruin,not set,not set,not set,NULL,0,1
+979,not set,gusepfura,gu,sepfura,#NAME?,to hiccup,not set,not set,not set,NULL,0,1
+980,not set,guserabeka,gu,serabeka,#NAME?,to slide,not set,not set,not set,NULL,0,1
+981,not set,gusesa,gu,sesa,sheshe,"to spread, disperse, dismantle",not set,not set,not set,NULL,0,1
+982,not set,gusesa akanguhe,gu,sesa akanguhe,sheshe,to be mature,not set,not set,not set,NULL,0,1
+983,not set,gusesagura,gu,sesagura,#NAME?,"to spend without concern, be uneconomic",not set,not set,not set,NULL,0,1
+984,not set,gusesekara,gu,sesekara,#NAME?,"to overflow, spill, arrive",not set,not set,not set,NULL,0,1
+985,not set,gusesengura,gu,sesengura,#NAME?,"to analyse, examine carefully",not set,not set,not set,NULL,0,1
+986,not set,gusetsa,gu,setsa,shekeje,"to make laugh, be funny",not set,not set,not set,NULL,0,1
+987,not set,gusezera,gu,sezera,#NAME?,"to take leave of, depart, bid goodbye",not set,not set,not set,NULL,0,1
+988,not set,gusezerana,gu,sezerana,#NAME?,"to promise, bid each other goodbye",not set,not set,not set,NULL,0,1
+989,not set,gushagara,gu,shagara,#NAME?,"to accompany, escort",not set,not set,not set,NULL,0,1
+990,not set,gushahura,gu,shahura,#NAME?,to castrate,not set,not set,not set,NULL,0,1
+991,not set,gushaka,gu,shaka,#NAME?,"to want, seek, search, look for",not set,not set,not set,NULL,0,1
+992,not set,gushakana,gu,shakana,#NAME?,to marry,not set,not set,not set,NULL,0,1
+993,not set,gushakashaka,gu,shakashaka,#NAME?,"to research, search diligently",not set,not set,not set,NULL,0,1
+994,not set,gushakira,gu,shakira,#NAME?,"to want, seek, search, look for something for someone else",not set,not set,not set,NULL,0,1
+995,not set,gushakisha,gu,shakisha,#NAME?,to cause to search or seek,not set,not set,not set,NULL,0,1
+996,not set,gushanyuka,gu,shanyuka,#NAME?,"to be torn, ripped",not set,not set,not set,NULL,0,1
+997,not set,gushanyura,gu,shanyura,#NAME?,to tear,not set,not set,not set,NULL,0,1
+998,not set,gusharira,gu,sharira,#NAME?,to be sour,not set,not set,not set,NULL,0,1
+999,not set,gushavuza,gu,shavuza,#NAME?,to make sad,not set,not set,not set,NULL,0,1
+1000,not set,gushengura,gu,shengura,#NAME?,"to overwhelm, weigh down, make sad",not set,not set,not set,NULL,0,1
+1001,not set,gushidikanya,gu,shidikanya,#NAME?,to doubt,not set,not set,not set,NULL,0,1
+1002,not set,gushyika,gu,shyika,#NAME?,to reach,not set,not set,not set,NULL,0,1
+1003,not set,gushima,gu,shima,#NAME?,"to praise, thank",not set,not set,not set,NULL,0,1
+1004,not set,gushimangira,gu,shimangira,#NAME?,"to nail down, establish, reinforce, emphasize",not set,not set,not set,NULL,0,1
+1005,not set,gushimuta,gu,shimuta,#NAME?,"to take hostage, steal cattle",not set,not set,not set,NULL,0,1
+1006,not set,gushinga,gu,shinga,#NAME?,"to drive stake, decide, vote, establish",not set,not set,not set,NULL,0,1
+1007,not set,gushinguka,gu,shinguka,#NAME?,"to come out (as stake in ground), be disestablished",not set,not set,not set,NULL,0,1
+1008,not set,gushingura,gu,shingura,#NAME?,"to pull out (as stake in ground), disestablish",not set,not set,not set,NULL,0,1
+1009,not set,gushinja,gu,shinja,#NAME?,"to accuse, blame",not set,not set,not set,NULL,0,1
+1010,not set,gushinjwa,gu,shinjwa,#NAME?,to be accused,not set,not set,not set,NULL,0,1
+1011,not set,gushinyagura,gu,shinyagura,#NAME?,"to torture, mock, ridicule",not set,not set,not set,NULL,0,1
+1012,not set,gushira,gu,shira,#NAME?,"to finish, end, run out, wear out",not set,not set,not set,NULL,0,1
+1013,not set,gushisha,gu,shisha,#NAME?,to be well fed,not set,not set,not set,NULL,0,1
+1014,not set,gushishikara,gu,shishikara,#NAME?,"to persevere, make effort",not set,not set,not set,NULL,0,1
+1015,not set,gushishikaza,gu,shishikaza,#NAME?,"to encourage, exhort",not set,not set,not set,NULL,0,1
+1016,not set,gushishimura,gu,shishimura,#NAME?,"to tear, rip something",not set,not set,not set,NULL,0,1
+1017,not set,gushishura,gu,shishura,#NAME?,to peel,not set,not set,not set,NULL,0,1
+1018,not set,gushishurwa,gu,shishurwa,#NAME?,to be peeled,not set,not set,not set,NULL,0,1
+1019,not set,gushobera,gu,shobera,#NAME?,to be at the end of oneself,not set,not set,not set,NULL,0,1
+1020,not set,gushoberwa,gu,shoberwa,#NAME?,"to be in despair, dumbfounded",not set,not set,not set,NULL,0,1
+1021,not set,gushoboka,gu,shoboka,#NAME?,to be possible,not set,not set,not set,NULL,0,1
+1022,not set,gushobora,gu,shobora,#NAME?,"to be able to, can",not set,not set,not set,NULL,0,1
+1023,not set,gushonga,gu,shonga,#NAME?,to melt,not set,not set,not set,NULL,0,1
+1024,not set,gushorera,gu,shorera,#NAME?,to lead (esp. animals),not set,not set,not set,NULL,0,1
+1025,not set,gushudika,gu,shudika,#NAME?,to be friends with,not set,not set,not set,NULL,0,1
+1026,not set,gushuka,gu,shuka,#NAME?,"to persuade, convince, tempt to do something",not set,not set,not set,NULL,0,1
+1027,not set,gushukashuka,gu,shukashuka,#NAME?,"to tempt, entice, fool, deceive lightly",not set,not set,not set,NULL,0,1
+1028,not set,gushuna,gu,shuna,#NAME?,to bite,not set,not set,not set,NULL,0,1
+1029,not set,gushungera,gu,shungera,#NAME?,"to surround, encircle",not set,not set,not set,NULL,0,1
+1030,not set,gushungura,gu,shungura,#NAME?,"to analyze, sift, winnow",not set,not set,not set,NULL,0,1
+1031,not set,gushushanya,gu,shushanya,#NAME?,to draw,not set,not set,not set,NULL,0,1
+1032,not set,gushya,gu,shya,#NAME?,to be burning,not set,not set,not set,NULL,0,1
+1033,not set,gushyanuka,gu,shyanuka,#NAME?,to do or say something you're not supposed to do or asked to do,not set,not set,not set,NULL,0,1
+1034,not set,gushyenga,gu,shyenga,#NAME?,"to be silly, clown, joke around",not set,not set,not set,NULL,0,1
+1035,not set,gushyigikira,gu,shyigikira,#NAME?,"to support, prop up, second a motion",not set,not set,not set,NULL,0,1
+1036,not set,gushyikirana,gu,shyikirana,#NAME?,"to confide in, have close relationship with",not set,not set,not set,NULL,0,1
+1037,not set,gushyingira,gu,shyingira,#NAME?,to marry a couple,not set,not set,not set,NULL,0,1
+1038,not set,gushyingiranwa,gu,shyingiranwa,#NAME?,"to be married together, marry",not set,not set,not set,NULL,0,1
+1039,not set,gushyinguka,gu,shyinguka,#NAME?,to come out of the ground,not set,not set,not set,NULL,0,1
+1040,not set,gushyingura,gu,shyingura,#NAME?,"to bury, archive",not set,not set,not set,NULL,0,1
+1041,not set,gushyingurwa,gu,shyingurwa,#NAME?,"to be buried, archived",not set,not set,not set,NULL,0,1
+1042,not set,gushyira,gu,shyira,#NAME?,"to put, place",not set,not set,not set,NULL,0,1
+1043,not set,gushyiramo umuriro,gu,shyiramo umuriro,#NAME?,"to charge, recharge",not set,not set,not set,NULL,0,1
+1044,not set,gushyuha,gu,shyuha,#NAME?,to be hot,not set,not set,not set,NULL,0,1
+1045,not set,gushyunguta,gu,shyunguta,#NAME?,to whistle,not set,not set,not set,NULL,0,1
+1046,not set,gushyushya,gu,shyushya,#NAME?,to heat,not set,not set,not set,NULL,0,1
+1047,not set,gusiba,gu,siba,#NAME?,"to erase, delete, close up path",not set,not set,not set,NULL,0,1
+1048,not set,gusifura,gu,sifura,#NAME?,to whistle,not set,not set,not set,NULL,0,1
+1049,not set,gusiga,gu,siga,#NAME?,"to leave, forsake, abandon",not set,not set,not set,NULL,0,1
+1050,not set,gusiga irangi,gu,siga irangi,#NAME?,to paint,not set,not set,not set,NULL,0,1
+1051,not set,gusigara,gu,sigara,#NAME?,to remain,not set,not set,not set,NULL,0,1
+1052,not set,gusimbuka,gu,simbuka,#NAME?,to jump,not set,not set,not set,NULL,0,1
+1053,not set,gusimbura,gu,simbura,#NAME?,"to replace, substitute",not set,not set,not set,NULL,0,1
+1054,not set,gusinda,gu,sinda,#NAME?,to be drunk,not set,not set,not set,NULL,0,1
+1055,not set,gusingiza,gu,singiza,#NAME?,"to honour, praise",not set,not set,not set,NULL,0,1
+1056,not set,gusinzira,gu,sinzira,#NAME?,"to sleep, be asleep",not set,not set,not set,NULL,0,1
+1057,not set,gusitara,gu,sitara,#NAME?,"to stumble, trip",not set,not set,not set,NULL,0,1
+1058,not set,gusobanuka,gu,sobanuka,#NAME?,to be understanding,not set,not set,not set,NULL,0,1
+1059,not set,gusobanukirwa,gu,sobanukirwa,#NAME?,to understand,not set,not set,not set,NULL,0,1
+1060,not set,gusobanura,gu,sobanura,#NAME?,"to explain, interpret, translate",not set,not set,not set,NULL,0,1
+1061,not set,gusobanurira,gu,sobanurira,#NAME?,to explain to,not set,not set,not set,NULL,0,1
+1062,not set,gusobanuza,gu,sobanuza,#NAME?,"to ask for explanation, ask for interpretation",not set,not set,not set,NULL,0,1
+1063,not set,gusobwa,gu,sobwa,#NAME?,"to misspeak, err",not set,not set,not set,NULL,0,1
+1064,not set,gusodoka,gu,sodoka,#NAME?,"to tip-toe, walk slowly and quietly",not set,not set,not set,NULL,0,1
+1065,not set,gusogongera,gu,sogongera,#NAME?,to taste (a little of something),not set,not set,not set,NULL,0,1
+1066,not set,gusogongerwa,gu,sogongerwa,#NAME?,to be tasted,not set,not set,not set,NULL,0,1
+1067,not set,gusohoka,gu,sohoka,#NAME?,"to go out, leave",not set,not set,not set,NULL,0,1
+1068,not set,gusohora,gu,sohora,#NAME?,to send out,not set,not set,not set,NULL,0,1
+1069,not set,gusohoza,gu,sohoza,#NAME?,"to fulfil, complete, accomplish",not set,not set,not set,NULL,0,1
+1070,not set,gusokoza,gu,sokoza,#NAME?,"to comb, brush hair",not set,not set,not set,NULL,0,1
+1071,not set,gusoma,gu,soma,#NAME?,to read,not set,not set,not set,NULL,0,1
+1072,not set,gusomagura,gu,somagura,#NAME?,"to kiss repeatedly, kiss passionately",not set,not set,not set,NULL,0,1
+1073,not set,gusomagurwa,gu,somagurwa,#NAME?,"to be kissed repeatedly, kissed passionately",not set,not set,not set,NULL,0,1
+1074,not set,gusomana,gu,somana,#NAME?,to kiss each other,not set,not set,not set,NULL,0,1
+1075,not set,gusomwa,gu,somwa,#NAME?,to be read,not set,not set,not set,NULL,0,1
+1076,not set,gusongera,gu,songera,#NAME?,"to second a motion, reinforce, support",not set,not set,not set,NULL,0,1
+1077,not set,gusonza,gu,sonza,shonje,to be hungry,not set,not set,not set,NULL,0,1
+1078,not set,gusoroma,gu,soroma,#NAME?,"to pick, gather fruits",not set,not set,not set,NULL,0,1
+1079,not set,gusoromwa,gu,soromwa,#NAME?,"to be picked, gathered (fruits)",not set,not set,not set,NULL,0,1
+1080,not set,gusosoroka,gu,sosoroka,#NAME?,"to slip out, stick out",not set,not set,not set,NULL,0,1
+1081,not set,gusubika,gu,subika,#NAME?,"to postpone, delay",not set,not set,not set,NULL,0,1
+1082,not set,gusubikwa,gu,subikwa,#NAME?,"to be postponed, delayed",not set,not set,not set,NULL,0,1
+1083,not set,gusubira,gu,subira,#NAME?,"to return there, go back, do again, repeat",not set,not set,not set,NULL,0,1
+1084,not set,gusubiza,gu,subiza,#NAME?,"to reply, answer",not set,not set,not set,NULL,0,1
+1085,not set,gusubizwa,gu,subizwa,#NAME?,"to be returned, repeated",not set,not set,not set,NULL,0,1
+1086,not set,gusubizwa inyuma,gu,subizwa inyuma,#NAME?,"to be forced back, regress",not set,not set,not set,NULL,0,1
+1087,not set,gusudira,gu,sudira,#NAME?,"to weld, solder",not set,not set,not set,NULL,0,1
+1088,not set,gusuhuza,gu,suhuza,#NAME?,to greet,not set,not set,not set,NULL,0,1
+1089,not set,gusuhuza umutima,gu,suhuza umutima,#NAME?,to sigh,not set,not set,not set,NULL,0,1
+1090,not set,gusuka,gu,suka,#NAME?,to pour into,not set,not set,not set,NULL,0,1
+1091,not set,gusukura,gu,sukura,#NAME?,to clean,not set,not set,not set,NULL,0,1
+1092,not set,gusumba,gu,sumba,#NAME?,"to be taller than, greater than",not set,not set,not set,NULL,0,1
+1093,not set,gusumira,gu,sumira,#NAME?,"to seize, grab, trap",not set,not set,not set,NULL,0,1
+1094,not set,gusunika,gu,sunika,#NAME?,to push,not set,not set,not set,NULL,0,1
+1095,not set,gusura,gu,sura,#NAME?,to visit,not set,not set,not set,NULL,0,1
+1096,not set,gusuzugura,gu,suzugura,#NAME?,"to disobey, defy",not set,not set,not set,NULL,0,1
+1097,not set,gusuzuma,gu,suzuma,#NAME?,"to examine, scrutinize, test",not set,not set,not set,NULL,0,1
+1098,not set,gusuzumwa,gu,suzumwa,#NAME?,"to be examined, scrutinized, tested",not set,not set,not set,NULL,0,1
+1099,not set,guswera,gu,swera,#NAME?,to have sexual intercourse,not set,not set,not set,NULL,0,1
+1100,not set,guswerwa,gu,swerwa,#NAME?,to have sexual intercourse,not set,not set,not set,NULL,0,1
+1101,not set,gusya,gu,sya,seye,"to grind, crush, powder",not set,not set,not set,NULL,0,1
+1102,not set,guta,gu,ta,taye,"to lose, leave behind, discard",not set,not set,not set,NULL,0,1
+1103,not set,gutaba,gu,taba,#NAME?,to bury,not set,not set,not set,NULL,0,1
+1104,not set,gutabara,gu,tabara,#NAME?,"to aid, assist, help",not set,not set,not set,NULL,0,1
+1105,not set,gutabarwa,gu,tabarwa,#NAME?,"to be aided, assisted, helped",not set,not set,not set,NULL,0,1
+1106,not set,kutabera,ku,tabera,#NAME?,"to be just, impartial",not set,not set,not set,NULL,0,1
+1107,not set,kutabona,ku,tabona,#NAME?,"to not see, not find, not get",not set,not set,not set,NULL,0,1
+1108,not set,gutabuka,gu,tabuka,#NAME?,"to tear, be torn",not set,not set,not set,NULL,0,1
+1109,not set,gutabwa,gu,tabwa,#NAME?,to be buried,not set,not set,not set,NULL,0,1
+1110,not set,gutagaguza,gu,tagaguza,#NAME?,"to waste, be careless",not set,not set,not set,NULL,0,1
+1111,not set,kutagira,ku,tagira,#NAME?,to not have,not set,not set,not set,NULL,0,1
+1112,not set,gutaha,gu,taha,#NAME?,"to go home, be next",not set,not set,not set,NULL,0,1
+1113,not set,gutaka,gu,taka,#NAME?,"to yelp, cry out, howl, shriek",not set,not set,not set,NULL,0,1
+1114,not set,gutamba,gu,tamba,#NAME?,to sacrifice,not set,not set,not set,NULL,0,1
+1115,not set,gutambika,gu,tambika,#NAME?,"to place across, span",not set,not set,not set,NULL,0,1
+1116,not set,gutambuka,gu,tambuka,#NAME?,"to step, advance, move on",not set,not set,not set,NULL,0,1
+1117,not set,gutambutsa,gu,tambutsa,#NAME?,to surpass in,not set,not set,not set,NULL,0,1
+1118,not set,gutambwa,gu,tambwa,#NAME?,to be sacrificed,not set,not set,not set,NULL,0,1
+1119,not set,kutamenya,ku,tamenya,#NAME?,to not know,not set,not set,not set,NULL,0,1
+1120,not set,gutana,gu,tana,#NAME?,"to divorce, separate, leave each other",not set,not set,not set,NULL,0,1
+1121,not set,gutanana,gu,tanana,#NAME?,"to be dispersed, scattered (people or animals)",not set,not set,not set,NULL,0,1
+1122,not set,gutandukana,gu,tandukana,#NAME?,"to separate, divorce",not set,not set,not set,NULL,0,1
+1123,not set,gutandukanya,gu,tandukanya,#NAME?,"to differ, be different, separated, divorced, split",not set,not set,not set,NULL,0,1
+1124,not set,gutanga,gu,tanga,#NAME?,"to give, offer, allocate",not set,not set,not set,NULL,0,1
+1125,not set,gutangara,gu,tangara,#NAME?,"to marvel, wonder, be astonished",not set,not set,not set,NULL,0,1
+1126,not set,gutangatanga,gu,tangatanga,#NAME?,"to encircle, surround",not set,not set,not set,NULL,0,1
+1127,not set,gutangaza,gu,tangaza,#NAME?,"to announce, publish",not set,not set,not set,NULL,0,1
+1128,not set,gutangazwa,gu,tangazwa,#NAME?,"to be amazed, astonished, announced, published",not set,not set,not set,NULL,0,1
+1129,not set,gutangira,gu,tangira,#NAME?,"to begin, start",not set,not set,not set,NULL,0,1
+1130,not set,gutangiza,gu,tangiza,#NAME?,"to initiate, start something, cause to begin",not set,not set,not set,NULL,0,1
+1131,not set,gutangwa,gu,tangwa,#NAME?,"to be given, offered, allocated",not set,not set,not set,NULL,0,1
+1132,not set,gutanya,gu,tanya,#NAME?,to separate,not set,not set,not set,NULL,0,1
+1133,not set,gutanyaguza,gu,tanyaguza,#NAME?,"to tear up, rip up",not set,not set,not set,NULL,0,1
+1134,not set,gutashya,gu,tashya,#NAME?,"to greet, send greetings",not set,not set,not set,NULL,0,1
+1135,not set,gutata,gu,tata,#NAME?,to spy,not set,not set,not set,NULL,0,1
+1136,not set,kutava,ku,tava,#NAME?,"to be stubborn, obstinate, firm, adamant",not set,not set,not set,NULL,0,1
+1137,not set,gutebeza,gu,tebeza,#NAME?,to tuck in (e.g. shirt),not set,not set,not set,NULL,0,1
+1138,not set,gutega,gu,tega,#NAME?,"to set trap, trip up, wait for",not set,not set,not set,NULL,0,1
+1139,not set,gutega amashyi,gu,tega amashyi,#NAME?,to hold out hands,not set,not set,not set,NULL,0,1
+1140,not set,gutega amatwi,gu,tega amatwi,#NAME?,to listen well,not set,not set,not set,NULL,0,1
+1141,not set,gutega urugori,gu,tega urugori,#NAME?,to decorate one's hair,not set,not set,not set,NULL,0,1
+1142,not set,guteganya,gu,teganya,#NAME?,"to prepare, plan",not set,not set,not set,NULL,0,1
+1143,not set,gutegeka,gu,tegeka,#NAME?,"to command, rule, reign",not set,not set,not set,NULL,0,1
+1144,not set,gutegereza,gu,tegereza,#NAME?,to wait for someone,not set,not set,not set,NULL,0,1
+1145,not set,gutegura,gu,tegura,#NAME?,"to prepare, plan, arrange, configure",not set,not set,not set,NULL,0,1
+1146,not set,guteka,gu,teka,#NAME?,to cook,not set,not set,not set,NULL,0,1
+1147,not set,gutekerereza,gu,tekerereza,#NAME?,to recount to,not set,not set,not set,NULL,0,1
+1148,not set,gutekereza,gu,tekereza,#NAME?,to think about,not set,not set,not set,NULL,0,1
+1149,not set,guterefona,gu,terefona,#NAME?,"to telephone, call",not set,not set,not set,NULL,0,1
+1150,not set,gutema,gu,tema,#NAME?,to cut using knife or machete,not set,not set,not set,NULL,0,1
+1151,not set,gutemba,gu,temba,#NAME?,to flow (as liquid),not set,not set,not set,NULL,0,1
+1152,not set,gutembera,gu,tembera,#NAME?,"to go about, walk about, circulate",not set,not set,not set,NULL,0,1
+1153,not set,gutera,gu,tera,#NAME?,"to plant, lay (eggs)",not set,not set,not set,NULL,0,1
+1154,not set,gutera urushinge,gu,tera urushinge,#NAME?,to inject,not set,not set,not set,NULL,0,1
+1155,not set,guterana,gu,terana,#NAME?,"to gather, come together",not set,not set,not set,NULL,0,1
+1156,not set,guteranya,gu,teranya,#NAME?,"to combine, merge, add to",not set,not set,not set,NULL,0,1
+1157,not set,gutereka,gu,tereka,#NAME?,"to place, put something",not set,not set,not set,NULL,0,1
+1158,not set,gutereka amata,gu,tereka amata,#NAME?,to put milk somewhere where it will become {ikivuguto},not set,not set,not set,NULL,0,1
+1159,not set,guterekwa,gu,terekwa,#NAME?,"to be placed, put somewhere",not set,not set,not set,NULL,0,1
+1160,not set,guterera,gu,terera,#NAME?,to throw at,not set,not set,not set,NULL,0,1
+1161,not set,gutererana,gu,tererana,#NAME?,to abandon,not set,not set,not set,NULL,0,1
+1162,not set,gutereranwa,gu,tereranwa,#NAME?,to be abandoned,not set,not set,not set,NULL,0,1
+1163,not set,gutererwa,gu,tererwa,#NAME?,to be thrown at,not set,not set,not set,NULL,0,1
+1164,not set,guterura,gu,terura,#NAME?,"to raise, lift up something",not set,not set,not set,NULL,0,1
+1165,not set,guterurwa,gu,terurwa,#NAME?,"to be raised, lifted up something",not set,not set,not set,NULL,0,1
+1166,not set,guterwa,gu,terwa,#NAME?,"to be planted, laid (eggs)",not set,not set,not set,NULL,0,1
+1167,not set,guteta,gu,teta,#NAME?,"to dote, show excessive affection",not set,not set,not set,NULL,0,1
+1168,not set,gutetesha,gu,tetesha,#NAME?,to spoil (a person),not set,not set,not set,NULL,0,1
+1169,not set,guteteshwa,gu,teteshwa,#NAME?,to be spoiled (a person),not set,not set,not set,NULL,0,1
+1170,not set,gutezuka,gu,tezuka,#NAME?,to do something illegal or forbidden,not set,not set,not set,NULL,0,1
+1171,not set,gutiga,gu,tiga,#NAME?,"to be dull, blunt, not sharp",not set,not set,not set,NULL,0,1
+1172,not set,gutigisa,gu,tigisa,#NAME?,to shake something,not set,not set,not set,NULL,0,1
+1173,not set,gutigita,gu,tigita,#NAME?,to be shaken,not set,not set,not set,NULL,0,1
+1174,not set,gutinda,gu,tinda,#NAME?,to delay,not set,not set,not set,NULL,0,1
+1175,not set,gutindaganya,gu,tindaganya,#NAME?,"to hesitate, be slow",not set,not set,not set,NULL,0,1
+1176,not set,gutinga,gu,tinga,#NAME?,to commit homosexual acts,not set,not set,not set,NULL,0,1
+1177,not set,gutinya,gu,tinya,#NAME?,"to be afraid, scared",not set,not set,not set,NULL,0,1
+1178,not set,gutinyuka,gu,tinyuka,#NAME?,"to dare, be fearless, brave",not set,not set,not set,NULL,0,1
+1179,not set,gutira,gu,tira,#NAME?,to borrow something,not set,not set,not set,NULL,0,1
+1180,not set,gutirimuka,gu,tirimuka,#NAME?,to leave secretly,not set,not set,not set,NULL,0,1
+1181,not set,gutiza,gu,tiza,#NAME?,to lend something to someone,not set,not set,not set,NULL,0,1
+1182,not set,gutoba,gu,toba,#NAME?,"to disturb, trouble",not set,not set,not set,NULL,0,1
+1183,not set,gutobora,gu,tobora,#NAME?,"to pierce, make hole in",not set,not set,not set,NULL,0,1
+1184,not set,gutoha,gu,toha,#NAME?,to get wet,not set,not set,not set,NULL,0,1
+1185,not set,gutona,gu,tona,#NAME?,to be favourite,not set,not set,not set,NULL,0,1
+1186,not set,gutonda,gu,tonda,#NAME?,to queue,not set,not set,not set,NULL,0,1
+1187,not set,gutondagura,gu,tondagura,#NAME?,to conjugate,not set,not set,not set,NULL,0,1
+1188,not set,gutondekanya,gu,tondekanya,#NAME?,to align,not set,not set,not set,NULL,0,1
+1189,not set,gutongana,gu,tongana,#NAME?,"to quarrel, argue",not set,not set,not set,NULL,0,1
+1190,not set,gutonganya,gu,tonganya,#NAME?,"to scold, rebuke",not set,not set,not set,NULL,0,1
+1191,not set,kutongera,ku,tongera,#NAME?,"to not add, not repeat",not set,not set,not set,NULL,0,1
+1192,not set,gutonora,gu,tonora,#NAME?,"to shell, peel (with fingers)",not set,not set,not set,NULL,0,1
+1193,not set,gutonyanga,gu,tonyanga,#NAME?,"to drip, fine rain, drizzle",not set,not set,not set,NULL,0,1
+1194,not set,gutora,gu,tora,#NAME?,"to choose, vote, elect, pick, select",not set,not set,not set,NULL,0,1
+1195,not set,gutoragura,gu,toragura,#NAME?,"to choose from a group, pick up here and there",not set,not set,not set,NULL,0,1
+1196,not set,gutoranya,gu,toranya,#NAME?,"to choose from a group, pick out",not set,not set,not set,NULL,0,1
+1197,not set,gutorwa,gu,torwa,#NAME?,"to be chosen, elected",not set,not set,not set,NULL,0,1
+1198,not set,gutoteza,gu,toteza,#NAME?,to persecute,not set,not set,not set,NULL,0,1
+1199,not set,gutoza,gu,toza,#NAME?,"to train, coach",not set,not set,not set,NULL,0,1
+1200,not set,gutsemba,gu,tsemba,#NAME?,"to destroy, exterminate",not set,not set,not set,NULL,0,1
+1201,not set,gutsika,gu,tsika,#NAME?,"to stop, tie up or moor boat",not set,not set,not set,NULL,0,1
+1202,not set,gutsinda,gu,tsinda,#NAME?,"to win, beat, overcome, defeat, pass, succeed",not set,not set,not set,NULL,0,1
+1203,not set,gutsindishiriza,gu,tsindishiriza,#NAME?,to justify,not set,not set,not set,NULL,0,1
+1204,not set,gutsindishirizwa,gu,tsindishirizwa,#NAME?,to be justified,not set,not set,not set,NULL,0,1
+1205,not set,gutsindwa,gu,tsindwa,#NAME?,"to fail, be beaten",not set,not set,not set,NULL,0,1
+1206,not set,gutsirita,gu,tsirita,#NAME?,"to rub hard, polish",not set,not set,not set,NULL,0,1
+1207,not set,gutsuka,gu,tsuka,#NAME?,to slide down hill on piece of banana trunk,not set,not set,not set,NULL,0,1
+1208,not set,gutsura,gu,tsura,#NAME?,"to move something down, push for, strive for",not set,not set,not set,NULL,0,1
+1209,not set,gutubura,gu,tubura,#NAME?,"to increase, multiply something",not set,not set,not set,NULL,0,1
+1210,not set,gutuga,gu,tuga,#NAME?,to bribe,not set,not set,not set,NULL,0,1
+1211,not set,gutuka,gu,tuka,#NAME?,"to abuse verbally, slander, insult",not set,not set,not set,NULL,0,1
+1212,not set,gutukura,gu,tukura,#NAME?,to be red,not set,not set,not set,NULL,0,1
+1213,not set,gutuma,gu,tuma,#NAME?,"to send, cause, be reason for",not set,not set,not set,NULL,0,1
+1214,not set,gutumbika,gu,tumbika,#NAME?,to soak,not set,not set,not set,NULL,0,1
+1215,not set,gutumbira,gu,tumbira,#NAME?,"to stare, look at intently",not set,not set,not set,NULL,0,1
+1216,not set,gutumburuka,gu,tumburuka,#NAME?,to elevate,not set,not set,not set,NULL,0,1
+1217,not set,gutumira,gu,tumira,#NAME?,to invite,not set,not set,not set,NULL,0,1
+1218,not set,gutumiza,gu,tumiza,#NAME?,to order,not set,not set,not set,NULL,0,1
+1219,not set,kutumvira,ku,tumvira,#NAME?,to disobey,not set,not set,not set,NULL,0,1
+1220,not set,gutunga,gu,tunga,#NAME?,"to possess, own",not set,not set,not set,NULL,0,1
+1221,not set,gutungana,gu,tungana,#NAME?,to be perfect,not set,not set,not set,NULL,0,1
+1222,not set,gutunganya,gu,tunganya,#NAME?,"to clean up, organise, perfect",not set,not set,not set,NULL,0,1
+1223,not set,gutunguka,gu,tunguka,#NAME?,to appear suddenly,not set,not set,not set,NULL,0,1
+1224,not set,gutungura,gu,tungura,#NAME?,to surprise,not set,not set,not set,NULL,0,1
+1225,not set,gutungurwa,gu,tungurwa,#NAME?,to be surprised,not set,not set,not set,NULL,0,1
+1226,not set,gutura,gu,tura,#NAME?,"to live at, dwell in, reside, inhabit",not set,not set,not set,NULL,0,1
+1227,not set,guturama,gu,turama,#NAME?,to lie in wait to steal or harm,not set,not set,not set,NULL,0,1
+1228,not set,guturana,gu,turana,#NAME?,to be neighbours,not set,not set,not set,NULL,0,1
+1229,not set,guturanya,gu,turanya,#NAME?,to be made neighbours,not set,not set,not set,NULL,0,1
+1230,not set,guturika,gu,turika,#NAME?,to be burst,not set,not set,not set,NULL,0,1
+1231,not set,guturisha,gu,turisha,#NAME?,"to silence, make quiet",not set,not set,not set,NULL,0,1
+1232,not set,guturitsa,gu,turitsa,#NAME?,to burst something,not set,not set,not set,NULL,0,1
+1233,not set,guturuka,gu,turuka,#NAME?,"to come from, originate from",not set,not set,not set,NULL,0,1
+1234,not set,guturwa,gu,turwa,#NAME?,"to be occupied, inhabited, lived in",not set,not set,not set,NULL,0,1
+1235,not set,gutuza,gu,tuza,#NAME?,"to be silent, quiet, peaceful",not set,not set,not set,NULL,0,1
+1236,not set,gutwama,gu,twama,#NAME?,"to silence, make quiet",not set,not set,not set,NULL,0,1
+1237,not set,gutwara,gu,twara,#NAME?,"to drive, ride, take, carry, lead; to take (as in time)",not set,not set,not set,NULL,0,1
+1238,not set,gutwika,gu,twika,#NAME?,to burn,not set,not set,not set,NULL,0,1
+1239,not set,gutwikira,gu,twikira,#NAME?,to cover,not set,not set,not set,NULL,0,1
+1240,not set,gutwikirwa,gu,twikirwa,#NAME?,to be covered,not set,not set,not set,NULL,0,1
+1241,not set,gutwita,gu,twita,#NAME?,to be pregnant,not set,not set,not set,NULL,0,1
+1242,not set,gutyara,gu,tyara,#NAME?,to be sharp,not set,not set,not set,NULL,0,1
+1243,not set,kubaha,k,ubaha,#NAME?,"to honour, respect, revere, obey",not set,not set,not set,NULL,0,1
+1244,not set,kubahuka,k,ubahuka,#NAME?,"to disrespect, not honour",not set,not set,not set,NULL,0,1
+1245,not set,kubaka,k,ubaka,#NAME?,"to build, make a family",not set,not set,not set,NULL,0,1
+1246,not set,kubama,k,ubama,#NAME?,"to bend over, stoop down",not set,not set,not set,NULL,0,1
+1247,not set,kubika inda,k,ubika inda,#NAME?,to lie on one's stomach,not set,not set,not set,NULL,0,1
+1248,not set,kubikira,k,ubikira,#NAME?,to lie in ambush,not set,not set,not set,NULL,0,1
+1249,not set,kubura amaso,k,ubura amaso,#NAME?,to look up,not set,not set,not set,NULL,0,1
+1250,not set,kugama,k,ugama,#NAME?,to shelter (from rain or sun),not set,not set,not set,NULL,0,1
+1251,not set,kuhagira,k,uhagira,#NAME?,to bathe someone or something,not set,not set,not set,NULL,0,1
+1252,not set,kuma,k,uma,#NAME?,to be dry,not set,not set,not set,NULL,0,1
+1253,not set,kumiza,k,umiza,#NAME?,"to astonish, astound",not set,not set,not set,NULL,0,1
+1254,not set,kumva,k,umva,#NAME?,"to hear, listen, understand, feel",not set,not set,not set,NULL,0,1
+1255,not set,kumvikana,k,umvikana,#NAME?,"to agree, understand each other",not set,not set,not set,NULL,0,1
+1256,not set,kumvira,k,umvira,#NAME?,to obey,not set,not set,not set,NULL,0,1
+1257,not set,kumviriza,k,umviriza,#NAME?,to eavesdrop,not set,not set,not set,NULL,0,1
+1258,not set,kumvwa,k,umvwa,#NAME?,"to be heard, understood, felt",not set,not set,not set,NULL,0,1
+1259,not set,kunama,k,unama,#NAME?,"to bow, bend over",not set,not set,not set,NULL,0,1
+1260,not set,kunga,k,unga,#NAME?,"to join, connect, reconcile, mediate",not set,not set,not set,NULL,0,1
+1261,not set,kunguka,k,unguka,#NAME?,"to gain, profit",not set,not set,not set,NULL,0,1
+1262,not set,kungura,k,ungura,#NAME?,"to cause to gain, make profitable",not set,not set,not set,NULL,0,1
+1263,not set,kururuka,k,ururuka,#NAME?,"to descend, climb down",not set,not set,not set,NULL,0,1
+1264,not set,kuzura,k,uzura,#NAME?,"to be full, complete, finished",not set,not set,not set,NULL,0,1
+1265,not set,kuzuza,k,uzuza,ujuje,to fill,not set,not set,not set,NULL,0,1
+1266,not set,kuva,ku,va,#NAME?,to come from,not set,not set,not set,NULL,0,1
+1267,not set,kuvana,ku,vana,#NAME?,"to come with, take from",not set,not set,not set,NULL,0,1
+1268,not set,kuvanga,ku,vanga,#NAME?,"to mix, stir",not set,not set,not set,NULL,0,1
+1269,not set,kuvangura,ku,vangura,#NAME?,to separate,not set,not set,not set,NULL,0,1
+1270,not set,kuvoma,ku,voma,#NAME?,to fetch water,not set,not set,not set,NULL,0,1
+1271,not set,kuvuga,ku,vuga,#NAME?,"to speak about, say, talk",not set,not set,not set,NULL,0,1
+1272,not set,kuvugama,ku,vugama,#NAME?,to row (boat),not set,not set,not set,NULL,0,1
+1273,not set,kuvugana,ku,vugana,#NAME?,to speak or talk with,not set,not set,not set,NULL,0,1
+1274,not set,kuvugisha,ku,vugisha,#NAME?,"to speak to, talk to",not set,not set,not set,NULL,0,1
+1275,not set,kuvugishwa,ku,vugishwa,#NAME?,"to be spoken to, talked to",not set,not set,not set,NULL,0,1
+1276,not set,kuvugurura,ku,vugurura,#NAME?,"to renew, revive, repair",not set,not set,not set,NULL,0,1
+1277,not set,kuvuguruza,ku,vuguruza,#NAME?,"to contradict, disagree",not set,not set,not set,NULL,0,1
+1278,not set,kuvugwa,ku,vugwa,#NAME?,"to be spoken about, talked about",not set,not set,not set,NULL,0,1
+1279,not set,kuvuka,ku,vuka,#NAME?,to be born,not set,not set,not set,NULL,0,1
+1280,not set,kuvukana,ku,vukana,#NAME?,to be born together,not set,not set,not set,NULL,0,1
+1281,not set,kuvuma,ku,vuma,#NAME?,to curse,not set,not set,not set,NULL,0,1
+1282,not set,kuvumba,ku,vumba,#NAME?,to take food or drink when not invited to a party,not set,not set,not set,NULL,0,1
+1283,not set,kuvumbura,ku,vumbura,#NAME?,to discover,not set,not set,not set,NULL,0,1
+1284,not set,kuvuna,ku,vuna,#NAME?,"to break, snap",not set,not set,not set,NULL,0,1
+1285,not set,kuvunagura,ku,vunagura,#NAME?,"to break something into pieces, smash",not set,not set,not set,NULL,0,1
+1286,not set,kuvundereza,ku,vundereza,#NAME?,to spit on,not set,not set,not set,NULL,0,1
+1287,not set,kuvunika,ku,vunika,#NAME?,"to break, be broken",not set,not set,not set,NULL,0,1
+1288,not set,kuvunikira,ku,vunikira,#NAME?,to break somewhere,not set,not set,not set,NULL,0,1
+1289,not set,kuvunja,ku,vunja,#NAME?,"to change money, exchange",not set,not set,not set,NULL,0,1
+1290,not set,kuvunwa,ku,vunwa,#NAME?,to be broken by,not set,not set,not set,NULL,0,1
+1291,not set,kuvunura,ku,vunura,#NAME?,to translate,not set,not set,not set,NULL,0,1
+1292,not set,kuvunurwa,ku,vunurwa,#NAME?,to be translated,not set,not set,not set,NULL,0,1
+1293,not set,kuvura,ku,vura,#NAME?,to treat a sick person,not set,not set,not set,NULL,0,1
+1294,not set,kuvuruga,ku,vuruga,#NAME?,"to beat, whip (milk, eggs, etc)",not set,not set,not set,NULL,0,1
+1295,not set,kuvutsa,ku,vutsa,#NAME?,"to cause to lose, hinder from getting",not set,not set,not set,NULL,0,1
+1296,not set,kuvuza,ku,vuza,#NAME?,to knock down with,not set,not set,not set,NULL,0,1
+1297,not set,kuyabangira ingata,ku,yabangira ingata,#NAME?,"to run fast, evade",not set,not set,not set,NULL,0,1
+1298,not set,kuyaga,ku,yaga,#NAME?,"to melt, be melted",not set,not set,not set,NULL,0,1
+1299,not set,kuyaza,ku,yaza,#NAME?,to cause to melt,not set,not set,not set,NULL,0,1
+1300,not set,kuyoba,ku,yoba,#NAME?,"to lose one's way, err, stray",not set,not set,not set,NULL,0,1
+1301,not set,kuyobera,ku,yobera,#NAME?,"to perplex, confuse, dumbfound",not set,not set,not set,NULL,0,1
+1302,not set,kuyoberwa,ku,yoberwa,#NAME?,"to be perplexed, mistaken, confused",not set,not set,not set,NULL,0,1
+1303,not set,kuyoboka,ku,yoboka,#NAME?,to be lead,not set,not set,not set,NULL,0,1
+1304,not set,kuyobora,ku,yobora,#NAME?,to lead,not set,not set,not set,NULL,0,1
+1305,not set,kuyoboza,ku,yoboza,#NAME?,to ask directions,not set,not set,not set,NULL,0,1
+1306,not set,kuza,ku,za,#NAME?,to come to,not set,not set,not set,NULL,0,1
+1307,not set,kuzamuka,ku,zamuka,#NAME?,"to climb, ascend, go up",not set,not set,not set,NULL,0,1
+1308,not set,kuzamura,ku,zamura,#NAME?,"to lift up, raise",not set,not set,not set,NULL,0,1
+1309,not set,kuzana,ku,zana,#NAME?,"to come with, bring",not set,not set,not set,NULL,0,1
+1310,not set,kuzanira,ku,zanira,#NAME?,to bring for,not set,not set,not set,NULL,0,1
+1311,not set,kuzengera,ku,zengera,#NAME?,to make dizzy,not set,not set,not set,NULL,0,1
+1312,not set,kuzengererwa,ku,zengererwa,#NAME?,to be dizzy,not set,not set,not set,NULL,0,1
+1313,not set,kuzerera,ku,zerera,#NAME?,"to wander about, walk about aimlessly",not set,not set,not set,NULL,0,1
+1314,not set,kuzeyutsa,ku,zeyutsa,#NAME?,to disappoint,not set,not set,not set,NULL,0,1
+1315,not set,kuzibuka,ku,zibuka,#NAME?,to become opened,not set,not set,not set,NULL,0,1
+1316,not set,kuzibura,ku,zibura,#NAME?,to open,not set,not set,not set,NULL,0,1
+1317,not set,kuzigama,ku,zigama,#NAME?,to save (as money),not set,not set,not set,NULL,0,1
+1318,not set,kuzima,ku,zima,#NAME?,"to be extinguished, go out",not set,not set,not set,NULL,0,1
+1319,not set,kuzimana,ku,zimana,#NAME?,"to make feast, serve meal",not set,not set,not set,NULL,0,1
+1320,not set,kuzimira,ku,zimira,#NAME?,"to go astray, lose the way, become lost",not set,not set,not set,NULL,0,1
+1321,not set,kuzimya,ku,zimya,#NAME?,"to switch off, extinguish",not set,not set,not set,NULL,0,1
+1322,not set,kuzinduka,ku,zinduka,#NAME?,to get up early,not set,not set,not set,NULL,0,1
+1323,not set,kuzinga,ku,zinga,#NAME?,"to fold, roll up, crumple",not set,not set,not set,NULL,0,1
+1324,not set,kuzinukwa,ku,zinukwa,#NAME?,"to cease to love, abandon",not set,not set,not set,NULL,0,1
+1325,not set,kuzira,ku,zira,#NAME?,"to be forbidden, be taboo, oppose, exclude",not set,not set,not set,NULL,0,1
+1326,not set,kuzirika,ku,zirika,#NAME?,to tie animal to post,not set,not set,not set,NULL,0,1
+1327,not set,kuzirikana,ku,zirikana,#NAME?,"to consider, think on, ponder, meditate",not set,not set,not set,NULL,0,1
+1328,not set,kuziririza,ku,ziririza,jiririje,to observe,not set,not set,not set,NULL,0,1
+1329,not set,kuzitira,ku,zitira,#NAME?,to plant hedge,not set,not set,not set,NULL,0,1
+1330,not set,kuzitura,ku,zitura,#NAME?,to untie animal,not set,not set,not set,NULL,0,1
+1331,not set,kuziza,ku,ziza,#NAME?,"to blame, reproach",not set,not set,not set,NULL,0,1
+1332,not set,kuzuka,ku,zuka,#NAME?,"to arise from the dead, be resurrected",not set,not set,not set,NULL,0,1
+1333,not set,kuzunguza,ku,zunguza,#NAME?,to shake one's head,not set,not set,not set,NULL,0,1
